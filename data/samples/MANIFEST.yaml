@@ -1,0 +1,21 @@
+
+pageviews-daily-user-since-2015.json:
+  url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Foobar/daily/2015010100/2020123100
+
+pageviews-daily-all-agents-since-2015.json:
+  url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Foobar/daily/2015010100/2020123100
+
+
+edits-daily.json:
+  url: https://wikimedia.org/api/rest_v1/metrics/edits/per-page/en.wikipedia/Deaths_in_January_2018/all-editor-types/monthly/2018010100/2018123100
+
+bytes-net-daily.json:
+  url: https://wikimedia.org/api/rest_v1/metrics/bytes-difference/net/per-page/en.wikipedia/Donald_Trump/all-editor-types/daily/2018010100/2018123100
+
+
+  reference: https://wikimedia.org/api/rest_v1/#/Bytes%20difference%20data/get_metrics_bytes_difference_net_per_page__project___page_title___editor_type___granularity___start___end_
+
+
+last-500-revisions.json:
+  url: https://en.wikipedia.org/w/api.php?action=query&prop=revisions&format=json&rvprop=timestamp|user|comment&rvlimit=500&titles=Donald_Trump
+  reference: https://www.mediawiki.org/wiki/API:Revisions

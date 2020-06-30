@@ -1,0 +1,1468 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "editor-type": "all-editor-types",
+      "page-title": "Donald_Trump",
+      "granularity": "daily",
+      "results": [
+        {
+          "timestamp": "2018-01-01T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-01-02T00:00:00.000Z",
+          "net_bytes_diff": 689
+        },
+        {
+          "timestamp": "2018-01-03T00:00:00.000Z",
+          "net_bytes_diff": 73
+        },
+        {
+          "timestamp": "2018-01-04T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-01-05T00:00:00.000Z",
+          "net_bytes_diff": 55
+        },
+        {
+          "timestamp": "2018-01-06T00:00:00.000Z",
+          "net_bytes_diff": 48
+        },
+        {
+          "timestamp": "2018-01-07T00:00:00.000Z",
+          "net_bytes_diff": 107
+        },
+        {
+          "timestamp": "2018-01-08T00:00:00.000Z",
+          "net_bytes_diff": 270
+        },
+        {
+          "timestamp": "2018-01-09T00:00:00.000Z",
+          "net_bytes_diff": -5
+        },
+        {
+          "timestamp": "2018-01-10T00:00:00.000Z",
+          "net_bytes_diff": 703
+        },
+        {
+          "timestamp": "2018-01-11T00:00:00.000Z",
+          "net_bytes_diff": 509
+        },
+        {
+          "timestamp": "2018-01-12T00:00:00.000Z",
+          "net_bytes_diff": 3190
+        },
+        {
+          "timestamp": "2018-01-13T00:00:00.000Z",
+          "net_bytes_diff": 4023
+        },
+        {
+          "timestamp": "2018-01-14T00:00:00.000Z",
+          "net_bytes_diff": 823
+        },
+        {
+          "timestamp": "2018-01-15T00:00:00.000Z",
+          "net_bytes_diff": 4277
+        },
+        {
+          "timestamp": "2018-01-16T00:00:00.000Z",
+          "net_bytes_diff": -560
+        },
+        {
+          "timestamp": "2018-01-17T00:00:00.000Z",
+          "net_bytes_diff": 641
+        },
+        {
+          "timestamp": "2018-01-18T00:00:00.000Z",
+          "net_bytes_diff": 800
+        },
+        {
+          "timestamp": "2018-01-19T00:00:00.000Z",
+          "net_bytes_diff": -94
+        },
+        {
+          "timestamp": "2018-01-20T00:00:00.000Z",
+          "net_bytes_diff": -495
+        },
+        {
+          "timestamp": "2018-01-21T00:00:00.000Z",
+          "net_bytes_diff": 834
+        },
+        {
+          "timestamp": "2018-01-22T00:00:00.000Z",
+          "net_bytes_diff": 206
+        },
+        {
+          "timestamp": "2018-01-23T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-01-24T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-01-25T00:00:00.000Z",
+          "net_bytes_diff": -36
+        },
+        {
+          "timestamp": "2018-01-26T00:00:00.000Z",
+          "net_bytes_diff": 1135
+        },
+        {
+          "timestamp": "2018-01-27T00:00:00.000Z",
+          "net_bytes_diff": 1590
+        },
+        {
+          "timestamp": "2018-01-28T00:00:00.000Z",
+          "net_bytes_diff": 476
+        },
+        {
+          "timestamp": "2018-01-29T00:00:00.000Z",
+          "net_bytes_diff": -860
+        },
+        {
+          "timestamp": "2018-01-30T00:00:00.000Z",
+          "net_bytes_diff": -298
+        },
+        {
+          "timestamp": "2018-01-31T00:00:00.000Z",
+          "net_bytes_diff": -26
+        },
+        {
+          "timestamp": "2018-02-01T00:00:00.000Z",
+          "net_bytes_diff": 93
+        },
+        {
+          "timestamp": "2018-02-02T00:00:00.000Z",
+          "net_bytes_diff": 73
+        },
+        {
+          "timestamp": "2018-02-03T00:00:00.000Z",
+          "net_bytes_diff": 131
+        },
+        {
+          "timestamp": "2018-02-04T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-05T00:00:00.000Z",
+          "net_bytes_diff": 65
+        },
+        {
+          "timestamp": "2018-02-06T00:00:00.000Z",
+          "net_bytes_diff": 7
+        },
+        {
+          "timestamp": "2018-02-07T00:00:00.000Z",
+          "net_bytes_diff": -20
+        },
+        {
+          "timestamp": "2018-02-08T00:00:00.000Z",
+          "net_bytes_diff": -339
+        },
+        {
+          "timestamp": "2018-02-09T00:00:00.000Z",
+          "net_bytes_diff": -5
+        },
+        {
+          "timestamp": "2018-02-10T00:00:00.000Z",
+          "net_bytes_diff": 1
+        },
+        {
+          "timestamp": "2018-02-11T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-12T00:00:00.000Z",
+          "net_bytes_diff": 776
+        },
+        {
+          "timestamp": "2018-02-13T00:00:00.000Z",
+          "net_bytes_diff": 2849
+        },
+        {
+          "timestamp": "2018-02-14T00:00:00.000Z",
+          "net_bytes_diff": -2096
+        },
+        {
+          "timestamp": "2018-02-15T00:00:00.000Z",
+          "net_bytes_diff": -111
+        },
+        {
+          "timestamp": "2018-02-16T00:00:00.000Z",
+          "net_bytes_diff": 575
+        },
+        {
+          "timestamp": "2018-02-17T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-18T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-19T00:00:00.000Z",
+          "net_bytes_diff": -274
+        },
+        {
+          "timestamp": "2018-02-20T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-21T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-22T00:00:00.000Z",
+          "net_bytes_diff": 302
+        },
+        {
+          "timestamp": "2018-02-23T00:00:00.000Z",
+          "net_bytes_diff": 43
+        },
+        {
+          "timestamp": "2018-02-24T00:00:00.000Z",
+          "net_bytes_diff": -87
+        },
+        {
+          "timestamp": "2018-02-25T00:00:00.000Z",
+          "net_bytes_diff": -96
+        },
+        {
+          "timestamp": "2018-02-26T00:00:00.000Z",
+          "net_bytes_diff": -1776
+        },
+        {
+          "timestamp": "2018-02-27T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-02-28T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-03-01T00:00:00.000Z",
+          "net_bytes_diff": 60
+        },
+        {
+          "timestamp": "2018-03-02T00:00:00.000Z",
+          "net_bytes_diff": 66
+        },
+        {
+          "timestamp": "2018-03-03T00:00:00.000Z",
+          "net_bytes_diff": 1127
+        },
+        {
+          "timestamp": "2018-03-04T00:00:00.000Z",
+          "net_bytes_diff": -1233
+        },
+        {
+          "timestamp": "2018-03-05T00:00:00.000Z",
+          "net_bytes_diff": 10
+        },
+        {
+          "timestamp": "2018-03-06T00:00:00.000Z",
+          "net_bytes_diff": 1673
+        },
+        {
+          "timestamp": "2018-03-07T00:00:00.000Z",
+          "net_bytes_diff": 1443
+        },
+        {
+          "timestamp": "2018-03-08T00:00:00.000Z",
+          "net_bytes_diff": 954
+        },
+        {
+          "timestamp": "2018-03-09T00:00:00.000Z",
+          "net_bytes_diff": 623
+        },
+        {
+          "timestamp": "2018-03-10T00:00:00.000Z",
+          "net_bytes_diff": 63
+        },
+        {
+          "timestamp": "2018-03-11T00:00:00.000Z",
+          "net_bytes_diff": 637
+        },
+        {
+          "timestamp": "2018-03-12T00:00:00.000Z",
+          "net_bytes_diff": -2391
+        },
+        {
+          "timestamp": "2018-03-13T00:00:00.000Z",
+          "net_bytes_diff": 4343
+        },
+        {
+          "timestamp": "2018-03-14T00:00:00.000Z",
+          "net_bytes_diff": 11
+        },
+        {
+          "timestamp": "2018-03-15T00:00:00.000Z",
+          "net_bytes_diff": 2024
+        },
+        {
+          "timestamp": "2018-03-16T00:00:00.000Z",
+          "net_bytes_diff": 1915
+        },
+        {
+          "timestamp": "2018-03-17T00:00:00.000Z",
+          "net_bytes_diff": 1710
+        },
+        {
+          "timestamp": "2018-03-18T00:00:00.000Z",
+          "net_bytes_diff": -1712
+        },
+        {
+          "timestamp": "2018-03-19T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-03-20T00:00:00.000Z",
+          "net_bytes_diff": 2
+        },
+        {
+          "timestamp": "2018-03-21T00:00:00.000Z",
+          "net_bytes_diff": 37
+        },
+        {
+          "timestamp": "2018-03-22T00:00:00.000Z",
+          "net_bytes_diff": 54
+        },
+        {
+          "timestamp": "2018-03-23T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-03-24T00:00:00.000Z",
+          "net_bytes_diff": 757
+        },
+        {
+          "timestamp": "2018-03-25T00:00:00.000Z",
+          "net_bytes_diff": -570
+        },
+        {
+          "timestamp": "2018-03-26T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-03-27T00:00:00.000Z",
+          "net_bytes_diff": 36
+        },
+        {
+          "timestamp": "2018-03-28T00:00:00.000Z",
+          "net_bytes_diff": -13
+        },
+        {
+          "timestamp": "2018-03-29T00:00:00.000Z",
+          "net_bytes_diff": 905
+        },
+        {
+          "timestamp": "2018-03-30T00:00:00.000Z",
+          "net_bytes_diff": -382
+        },
+        {
+          "timestamp": "2018-03-31T00:00:00.000Z",
+          "net_bytes_diff": 76
+        },
+        {
+          "timestamp": "2018-04-01T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-04-02T00:00:00.000Z",
+          "net_bytes_diff": 50
+        },
+        {
+          "timestamp": "2018-04-03T00:00:00.000Z",
+          "net_bytes_diff": -49
+        },
+        {
+          "timestamp": "2018-04-04T00:00:00.000Z",
+          "net_bytes_diff": 51
+        },
+        {
+          "timestamp": "2018-04-05T00:00:00.000Z",
+          "net_bytes_diff": 176
+        },
+        {
+          "timestamp": "2018-04-06T00:00:00.000Z",
+          "net_bytes_diff": -3063
+        },
+        {
+          "timestamp": "2018-04-07T00:00:00.000Z",
+          "net_bytes_diff": 68
+        },
+        {
+          "timestamp": "2018-04-08T00:00:00.000Z",
+          "net_bytes_diff": -1802
+        },
+        {
+          "timestamp": "2018-04-09T00:00:00.000Z",
+          "net_bytes_diff": 9
+        },
+        {
+          "timestamp": "2018-04-10T00:00:00.000Z",
+          "net_bytes_diff": 105
+        },
+        {
+          "timestamp": "2018-04-11T00:00:00.000Z",
+          "net_bytes_diff": 1506
+        },
+        {
+          "timestamp": "2018-04-12T00:00:00.000Z",
+          "net_bytes_diff": 81
+        },
+        {
+          "timestamp": "2018-04-13T00:00:00.000Z",
+          "net_bytes_diff": 786
+        },
+        {
+          "timestamp": "2018-04-14T00:00:00.000Z",
+          "net_bytes_diff": 536
+        },
+        {
+          "timestamp": "2018-04-15T00:00:00.000Z",
+          "net_bytes_diff": 27
+        },
+        {
+          "timestamp": "2018-04-16T00:00:00.000Z",
+          "net_bytes_diff": 118
+        },
+        {
+          "timestamp": "2018-04-17T00:00:00.000Z",
+          "net_bytes_diff": 271
+        },
+        {
+          "timestamp": "2018-04-18T00:00:00.000Z",
+          "net_bytes_diff": 99
+        },
+        {
+          "timestamp": "2018-04-19T00:00:00.000Z",
+          "net_bytes_diff": -58
+        },
+        {
+          "timestamp": "2018-04-20T00:00:00.000Z",
+          "net_bytes_diff": -14408
+        },
+        {
+          "timestamp": "2018-04-21T00:00:00.000Z",
+          "net_bytes_diff": 1699
+        },
+        {
+          "timestamp": "2018-04-22T00:00:00.000Z",
+          "net_bytes_diff": -1241
+        },
+        {
+          "timestamp": "2018-04-23T00:00:00.000Z",
+          "net_bytes_diff": -77
+        },
+        {
+          "timestamp": "2018-04-24T00:00:00.000Z",
+          "net_bytes_diff": 56
+        },
+        {
+          "timestamp": "2018-04-25T00:00:00.000Z",
+          "net_bytes_diff": -534
+        },
+        {
+          "timestamp": "2018-04-26T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-04-27T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-04-28T00:00:00.000Z",
+          "net_bytes_diff": 49
+        },
+        {
+          "timestamp": "2018-04-29T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-04-30T00:00:00.000Z",
+          "net_bytes_diff": 2
+        },
+        {
+          "timestamp": "2018-05-01T00:00:00.000Z",
+          "net_bytes_diff": 678
+        },
+        {
+          "timestamp": "2018-05-02T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-05-03T00:00:00.000Z",
+          "net_bytes_diff": 763
+        },
+        {
+          "timestamp": "2018-05-04T00:00:00.000Z",
+          "net_bytes_diff": 4
+        },
+        {
+          "timestamp": "2018-05-05T00:00:00.000Z",
+          "net_bytes_diff": 21
+        },
+        {
+          "timestamp": "2018-05-06T00:00:00.000Z",
+          "net_bytes_diff": 724
+        },
+        {
+          "timestamp": "2018-05-07T00:00:00.000Z",
+          "net_bytes_diff": -452
+        },
+        {
+          "timestamp": "2018-05-08T00:00:00.000Z",
+          "net_bytes_diff": -43
+        },
+        {
+          "timestamp": "2018-05-09T00:00:00.000Z",
+          "net_bytes_diff": 855
+        },
+        {
+          "timestamp": "2018-05-10T00:00:00.000Z",
+          "net_bytes_diff": 3685
+        },
+        {
+          "timestamp": "2018-05-11T00:00:00.000Z",
+          "net_bytes_diff": -54
+        },
+        {
+          "timestamp": "2018-05-12T00:00:00.000Z",
+          "net_bytes_diff": 632
+        },
+        {
+          "timestamp": "2018-05-13T00:00:00.000Z",
+          "net_bytes_diff": -23
+        },
+        {
+          "timestamp": "2018-05-14T00:00:00.000Z",
+          "net_bytes_diff": -98
+        },
+        {
+          "timestamp": "2018-05-15T00:00:00.000Z",
+          "net_bytes_diff": 6
+        },
+        {
+          "timestamp": "2018-05-16T00:00:00.000Z",
+          "net_bytes_diff": 1576
+        },
+        {
+          "timestamp": "2018-05-17T00:00:00.000Z",
+          "net_bytes_diff": -1524
+        },
+        {
+          "timestamp": "2018-05-18T00:00:00.000Z",
+          "net_bytes_diff": -4
+        },
+        {
+          "timestamp": "2018-05-19T00:00:00.000Z",
+          "net_bytes_diff": -197
+        },
+        {
+          "timestamp": "2018-05-20T00:00:00.000Z",
+          "net_bytes_diff": 638
+        },
+        {
+          "timestamp": "2018-05-21T00:00:00.000Z",
+          "net_bytes_diff": -357
+        },
+        {
+          "timestamp": "2018-05-22T00:00:00.000Z",
+          "net_bytes_diff": 30
+        },
+        {
+          "timestamp": "2018-05-23T00:00:00.000Z",
+          "net_bytes_diff": 515
+        },
+        {
+          "timestamp": "2018-05-24T00:00:00.000Z",
+          "net_bytes_diff": 2800
+        },
+        {
+          "timestamp": "2018-05-25T00:00:00.000Z",
+          "net_bytes_diff": 15
+        },
+        {
+          "timestamp": "2018-05-26T00:00:00.000Z",
+          "net_bytes_diff": 487
+        },
+        {
+          "timestamp": "2018-05-27T00:00:00.000Z",
+          "net_bytes_diff": -1537
+        },
+        {
+          "timestamp": "2018-05-28T00:00:00.000Z",
+          "net_bytes_diff": -27
+        },
+        {
+          "timestamp": "2018-05-29T00:00:00.000Z",
+          "net_bytes_diff": 33
+        },
+        {
+          "timestamp": "2018-05-30T00:00:00.000Z",
+          "net_bytes_diff": -5
+        },
+        {
+          "timestamp": "2018-05-31T00:00:00.000Z",
+          "net_bytes_diff": 266
+        },
+        {
+          "timestamp": "2018-06-01T00:00:00.000Z",
+          "net_bytes_diff": -43
+        },
+        {
+          "timestamp": "2018-06-02T00:00:00.000Z",
+          "net_bytes_diff": 390
+        },
+        {
+          "timestamp": "2018-06-03T00:00:00.000Z",
+          "net_bytes_diff": -1040
+        },
+        {
+          "timestamp": "2018-06-04T00:00:00.000Z",
+          "net_bytes_diff": -1461
+        },
+        {
+          "timestamp": "2018-06-05T00:00:00.000Z",
+          "net_bytes_diff": 795
+        },
+        {
+          "timestamp": "2018-06-06T00:00:00.000Z",
+          "net_bytes_diff": 199
+        },
+        {
+          "timestamp": "2018-06-07T00:00:00.000Z",
+          "net_bytes_diff": 5173
+        },
+        {
+          "timestamp": "2018-06-08T00:00:00.000Z",
+          "net_bytes_diff": -2951
+        },
+        {
+          "timestamp": "2018-06-09T00:00:00.000Z",
+          "net_bytes_diff": 1308
+        },
+        {
+          "timestamp": "2018-06-10T00:00:00.000Z",
+          "net_bytes_diff": -1125
+        },
+        {
+          "timestamp": "2018-06-11T00:00:00.000Z",
+          "net_bytes_diff": -1311
+        },
+        {
+          "timestamp": "2018-06-12T00:00:00.000Z",
+          "net_bytes_diff": 4086
+        },
+        {
+          "timestamp": "2018-06-13T00:00:00.000Z",
+          "net_bytes_diff": 360
+        },
+        {
+          "timestamp": "2018-06-14T00:00:00.000Z",
+          "net_bytes_diff": -2407
+        },
+        {
+          "timestamp": "2018-06-15T00:00:00.000Z",
+          "net_bytes_diff": 857
+        },
+        {
+          "timestamp": "2018-06-16T00:00:00.000Z",
+          "net_bytes_diff": -253
+        },
+        {
+          "timestamp": "2018-06-17T00:00:00.000Z",
+          "net_bytes_diff": 1124
+        },
+        {
+          "timestamp": "2018-06-18T00:00:00.000Z",
+          "net_bytes_diff": -543
+        },
+        {
+          "timestamp": "2018-06-19T00:00:00.000Z",
+          "net_bytes_diff": 17
+        },
+        {
+          "timestamp": "2018-06-20T00:00:00.000Z",
+          "net_bytes_diff": -491
+        },
+        {
+          "timestamp": "2018-06-21T00:00:00.000Z",
+          "net_bytes_diff": 10
+        },
+        {
+          "timestamp": "2018-06-22T00:00:00.000Z",
+          "net_bytes_diff": -3650
+        },
+        {
+          "timestamp": "2018-06-23T00:00:00.000Z",
+          "net_bytes_diff": 280
+        },
+        {
+          "timestamp": "2018-06-24T00:00:00.000Z",
+          "net_bytes_diff": 724
+        },
+        {
+          "timestamp": "2018-06-25T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-06-26T00:00:00.000Z",
+          "net_bytes_diff": 271
+        },
+        {
+          "timestamp": "2018-06-27T00:00:00.000Z",
+          "net_bytes_diff": 1025
+        },
+        {
+          "timestamp": "2018-06-28T00:00:00.000Z",
+          "net_bytes_diff": 3856
+        },
+        {
+          "timestamp": "2018-06-29T00:00:00.000Z",
+          "net_bytes_diff": -7
+        },
+        {
+          "timestamp": "2018-06-30T00:00:00.000Z",
+          "net_bytes_diff": 82
+        },
+        {
+          "timestamp": "2018-07-01T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-07-02T00:00:00.000Z",
+          "net_bytes_diff": -49
+        },
+        {
+          "timestamp": "2018-07-03T00:00:00.000Z",
+          "net_bytes_diff": 166
+        },
+        {
+          "timestamp": "2018-07-04T00:00:00.000Z",
+          "net_bytes_diff": 7551
+        },
+        {
+          "timestamp": "2018-07-05T00:00:00.000Z",
+          "net_bytes_diff": 3353
+        },
+        {
+          "timestamp": "2018-07-06T00:00:00.000Z",
+          "net_bytes_diff": -1105
+        },
+        {
+          "timestamp": "2018-07-07T00:00:00.000Z",
+          "net_bytes_diff": 1341
+        },
+        {
+          "timestamp": "2018-07-08T00:00:00.000Z",
+          "net_bytes_diff": 1320
+        },
+        {
+          "timestamp": "2018-07-09T00:00:00.000Z",
+          "net_bytes_diff": -322
+        },
+        {
+          "timestamp": "2018-07-10T00:00:00.000Z",
+          "net_bytes_diff": 1211
+        },
+        {
+          "timestamp": "2018-07-11T00:00:00.000Z",
+          "net_bytes_diff": -4505
+        },
+        {
+          "timestamp": "2018-07-12T00:00:00.000Z",
+          "net_bytes_diff": -7231
+        },
+        {
+          "timestamp": "2018-07-13T00:00:00.000Z",
+          "net_bytes_diff": -465
+        },
+        {
+          "timestamp": "2018-07-14T00:00:00.000Z",
+          "net_bytes_diff": 2361
+        },
+        {
+          "timestamp": "2018-07-15T00:00:00.000Z",
+          "net_bytes_diff": 958
+        },
+        {
+          "timestamp": "2018-07-16T00:00:00.000Z",
+          "net_bytes_diff": 637
+        },
+        {
+          "timestamp": "2018-07-17T00:00:00.000Z",
+          "net_bytes_diff": -760
+        },
+        {
+          "timestamp": "2018-07-18T00:00:00.000Z",
+          "net_bytes_diff": 1677
+        },
+        {
+          "timestamp": "2018-07-19T00:00:00.000Z",
+          "net_bytes_diff": 3
+        },
+        {
+          "timestamp": "2018-07-20T00:00:00.000Z",
+          "net_bytes_diff": 144
+        },
+        {
+          "timestamp": "2018-07-21T00:00:00.000Z",
+          "net_bytes_diff": -1249
+        },
+        {
+          "timestamp": "2018-07-22T00:00:00.000Z",
+          "net_bytes_diff": -244
+        },
+        {
+          "timestamp": "2018-07-23T00:00:00.000Z",
+          "net_bytes_diff": 278
+        },
+        {
+          "timestamp": "2018-07-24T00:00:00.000Z",
+          "net_bytes_diff": 448
+        },
+        {
+          "timestamp": "2018-07-25T00:00:00.000Z",
+          "net_bytes_diff": 963
+        },
+        {
+          "timestamp": "2018-07-26T00:00:00.000Z",
+          "net_bytes_diff": 842
+        },
+        {
+          "timestamp": "2018-07-27T00:00:00.000Z",
+          "net_bytes_diff": -426
+        },
+        {
+          "timestamp": "2018-07-28T00:00:00.000Z",
+          "net_bytes_diff": -725
+        },
+        {
+          "timestamp": "2018-07-29T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-07-30T00:00:00.000Z",
+          "net_bytes_diff": -669
+        },
+        {
+          "timestamp": "2018-07-31T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-01T00:00:00.000Z",
+          "net_bytes_diff": 1063
+        },
+        {
+          "timestamp": "2018-08-02T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-03T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-04T00:00:00.000Z",
+          "net_bytes_diff": 1192
+        },
+        {
+          "timestamp": "2018-08-05T00:00:00.000Z",
+          "net_bytes_diff": -2733
+        },
+        {
+          "timestamp": "2018-08-06T00:00:00.000Z",
+          "net_bytes_diff": -970
+        },
+        {
+          "timestamp": "2018-08-07T00:00:00.000Z",
+          "net_bytes_diff": -8
+        },
+        {
+          "timestamp": "2018-08-08T00:00:00.000Z",
+          "net_bytes_diff": -212
+        },
+        {
+          "timestamp": "2018-08-09T00:00:00.000Z",
+          "net_bytes_diff": -47
+        },
+        {
+          "timestamp": "2018-08-10T00:00:00.000Z",
+          "net_bytes_diff": -31
+        },
+        {
+          "timestamp": "2018-08-11T00:00:00.000Z",
+          "net_bytes_diff": 56
+        },
+        {
+          "timestamp": "2018-08-12T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-13T00:00:00.000Z",
+          "net_bytes_diff": 83
+        },
+        {
+          "timestamp": "2018-08-14T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-15T00:00:00.000Z",
+          "net_bytes_diff": -152
+        },
+        {
+          "timestamp": "2018-08-16T00:00:00.000Z",
+          "net_bytes_diff": 189
+        },
+        {
+          "timestamp": "2018-08-17T00:00:00.000Z",
+          "net_bytes_diff": -2
+        },
+        {
+          "timestamp": "2018-08-18T00:00:00.000Z",
+          "net_bytes_diff": 1626
+        },
+        {
+          "timestamp": "2018-08-19T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-20T00:00:00.000Z",
+          "net_bytes_diff": -14
+        },
+        {
+          "timestamp": "2018-08-21T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-08-22T00:00:00.000Z",
+          "net_bytes_diff": 8519
+        },
+        {
+          "timestamp": "2018-08-23T00:00:00.000Z",
+          "net_bytes_diff": -3752
+        },
+        {
+          "timestamp": "2018-08-24T00:00:00.000Z",
+          "net_bytes_diff": -296
+        },
+        {
+          "timestamp": "2018-08-25T00:00:00.000Z",
+          "net_bytes_diff": 533
+        },
+        {
+          "timestamp": "2018-08-26T00:00:00.000Z",
+          "net_bytes_diff": -405
+        },
+        {
+          "timestamp": "2018-08-27T00:00:00.000Z",
+          "net_bytes_diff": 761
+        },
+        {
+          "timestamp": "2018-08-28T00:00:00.000Z",
+          "net_bytes_diff": -45
+        },
+        {
+          "timestamp": "2018-08-29T00:00:00.000Z",
+          "net_bytes_diff": 412
+        },
+        {
+          "timestamp": "2018-08-30T00:00:00.000Z",
+          "net_bytes_diff": 476
+        },
+        {
+          "timestamp": "2018-08-31T00:00:00.000Z",
+          "net_bytes_diff": 11
+        },
+        {
+          "timestamp": "2018-09-01T00:00:00.000Z",
+          "net_bytes_diff": 55
+        },
+        {
+          "timestamp": "2018-09-02T00:00:00.000Z",
+          "net_bytes_diff": -29
+        },
+        {
+          "timestamp": "2018-09-03T00:00:00.000Z",
+          "net_bytes_diff": 2243
+        },
+        {
+          "timestamp": "2018-09-04T00:00:00.000Z",
+          "net_bytes_diff": 81
+        },
+        {
+          "timestamp": "2018-09-05T00:00:00.000Z",
+          "net_bytes_diff": 586
+        },
+        {
+          "timestamp": "2018-09-06T00:00:00.000Z",
+          "net_bytes_diff": 606
+        },
+        {
+          "timestamp": "2018-09-07T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-08T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-09T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-10T00:00:00.000Z",
+          "net_bytes_diff": 40
+        },
+        {
+          "timestamp": "2018-09-11T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-12T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-13T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-14T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-15T00:00:00.000Z",
+          "net_bytes_diff": -87
+        },
+        {
+          "timestamp": "2018-09-16T00:00:00.000Z",
+          "net_bytes_diff": 15
+        },
+        {
+          "timestamp": "2018-09-17T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-18T00:00:00.000Z",
+          "net_bytes_diff": 252
+        },
+        {
+          "timestamp": "2018-09-19T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-20T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-21T00:00:00.000Z",
+          "net_bytes_diff": -4
+        },
+        {
+          "timestamp": "2018-09-22T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-23T00:00:00.000Z",
+          "net_bytes_diff": 1964
+        },
+        {
+          "timestamp": "2018-09-24T00:00:00.000Z",
+          "net_bytes_diff": 602
+        },
+        {
+          "timestamp": "2018-09-25T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-26T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-27T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-09-28T00:00:00.000Z",
+          "net_bytes_diff": -165
+        },
+        {
+          "timestamp": "2018-09-29T00:00:00.000Z",
+          "net_bytes_diff": 4
+        },
+        {
+          "timestamp": "2018-09-30T00:00:00.000Z",
+          "net_bytes_diff": 43
+        },
+        {
+          "timestamp": "2018-10-01T00:00:00.000Z",
+          "net_bytes_diff": 7
+        },
+        {
+          "timestamp": "2018-10-02T00:00:00.000Z",
+          "net_bytes_diff": -20
+        },
+        {
+          "timestamp": "2018-10-03T00:00:00.000Z",
+          "net_bytes_diff": 3534
+        },
+        {
+          "timestamp": "2018-10-04T00:00:00.000Z",
+          "net_bytes_diff": 1513
+        },
+        {
+          "timestamp": "2018-10-05T00:00:00.000Z",
+          "net_bytes_diff": 585
+        },
+        {
+          "timestamp": "2018-10-06T00:00:00.000Z",
+          "net_bytes_diff": -133
+        },
+        {
+          "timestamp": "2018-10-07T00:00:00.000Z",
+          "net_bytes_diff": 37
+        },
+        {
+          "timestamp": "2018-10-08T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-10-09T00:00:00.000Z",
+          "net_bytes_diff": 368
+        },
+        {
+          "timestamp": "2018-10-10T00:00:00.000Z",
+          "net_bytes_diff": 15
+        },
+        {
+          "timestamp": "2018-10-11T00:00:00.000Z",
+          "net_bytes_diff": 2
+        },
+        {
+          "timestamp": "2018-10-12T00:00:00.000Z",
+          "net_bytes_diff": -1
+        },
+        {
+          "timestamp": "2018-10-13T00:00:00.000Z",
+          "net_bytes_diff": 1120
+        },
+        {
+          "timestamp": "2018-10-14T00:00:00.000Z",
+          "net_bytes_diff": 1265
+        },
+        {
+          "timestamp": "2018-10-15T00:00:00.000Z",
+          "net_bytes_diff": 12
+        },
+        {
+          "timestamp": "2018-10-16T00:00:00.000Z",
+          "net_bytes_diff": 145
+        },
+        {
+          "timestamp": "2018-10-17T00:00:00.000Z",
+          "net_bytes_diff": 582
+        },
+        {
+          "timestamp": "2018-10-18T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-10-19T00:00:00.000Z",
+          "net_bytes_diff": 439
+        },
+        {
+          "timestamp": "2018-10-20T00:00:00.000Z",
+          "net_bytes_diff": 36
+        },
+        {
+          "timestamp": "2018-10-21T00:00:00.000Z",
+          "net_bytes_diff": -490
+        },
+        {
+          "timestamp": "2018-10-22T00:00:00.000Z",
+          "net_bytes_diff": -10
+        },
+        {
+          "timestamp": "2018-10-23T00:00:00.000Z",
+          "net_bytes_diff": 265
+        },
+        {
+          "timestamp": "2018-10-24T00:00:00.000Z",
+          "net_bytes_diff": 4
+        },
+        {
+          "timestamp": "2018-10-25T00:00:00.000Z",
+          "net_bytes_diff": -686
+        },
+        {
+          "timestamp": "2018-10-26T00:00:00.000Z",
+          "net_bytes_diff": 201
+        },
+        {
+          "timestamp": "2018-10-27T00:00:00.000Z",
+          "net_bytes_diff": -58
+        },
+        {
+          "timestamp": "2018-10-28T00:00:00.000Z",
+          "net_bytes_diff": -107
+        },
+        {
+          "timestamp": "2018-10-29T00:00:00.000Z",
+          "net_bytes_diff": -290
+        },
+        {
+          "timestamp": "2018-10-30T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-10-31T00:00:00.000Z",
+          "net_bytes_diff": 2012
+        },
+        {
+          "timestamp": "2018-11-01T00:00:00.000Z",
+          "net_bytes_diff": -1987
+        },
+        {
+          "timestamp": "2018-11-02T00:00:00.000Z",
+          "net_bytes_diff": 460
+        },
+        {
+          "timestamp": "2018-11-03T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-04T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-05T00:00:00.000Z",
+          "net_bytes_diff": -50
+        },
+        {
+          "timestamp": "2018-11-06T00:00:00.000Z",
+          "net_bytes_diff": 8
+        },
+        {
+          "timestamp": "2018-11-07T00:00:00.000Z",
+          "net_bytes_diff": 439
+        },
+        {
+          "timestamp": "2018-11-08T00:00:00.000Z",
+          "net_bytes_diff": 177
+        },
+        {
+          "timestamp": "2018-11-09T00:00:00.000Z",
+          "net_bytes_diff": 727
+        },
+        {
+          "timestamp": "2018-11-10T00:00:00.000Z",
+          "net_bytes_diff": 67
+        },
+        {
+          "timestamp": "2018-11-11T00:00:00.000Z",
+          "net_bytes_diff": 226
+        },
+        {
+          "timestamp": "2018-11-12T00:00:00.000Z",
+          "net_bytes_diff": 2499
+        },
+        {
+          "timestamp": "2018-11-13T00:00:00.000Z",
+          "net_bytes_diff": 2035
+        },
+        {
+          "timestamp": "2018-11-14T00:00:00.000Z",
+          "net_bytes_diff": 5
+        },
+        {
+          "timestamp": "2018-11-15T00:00:00.000Z",
+          "net_bytes_diff": 670
+        },
+        {
+          "timestamp": "2018-11-16T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-17T00:00:00.000Z",
+          "net_bytes_diff": -11
+        },
+        {
+          "timestamp": "2018-11-18T00:00:00.000Z",
+          "net_bytes_diff": 344
+        },
+        {
+          "timestamp": "2018-11-19T00:00:00.000Z",
+          "net_bytes_diff": -12
+        },
+        {
+          "timestamp": "2018-11-20T00:00:00.000Z",
+          "net_bytes_diff": 106
+        },
+        {
+          "timestamp": "2018-11-21T00:00:00.000Z",
+          "net_bytes_diff": -29
+        },
+        {
+          "timestamp": "2018-11-22T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-23T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-24T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-25T00:00:00.000Z",
+          "net_bytes_diff": -3486
+        },
+        {
+          "timestamp": "2018-11-26T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-27T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-28T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-29T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-11-30T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-01T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-02T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-03T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-04T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-05T00:00:00.000Z",
+          "net_bytes_diff": 24
+        },
+        {
+          "timestamp": "2018-12-06T00:00:00.000Z",
+          "net_bytes_diff": 860
+        },
+        {
+          "timestamp": "2018-12-07T00:00:00.000Z",
+          "net_bytes_diff": -1177
+        },
+        {
+          "timestamp": "2018-12-08T00:00:00.000Z",
+          "net_bytes_diff": 512
+        },
+        {
+          "timestamp": "2018-12-09T00:00:00.000Z",
+          "net_bytes_diff": 292
+        },
+        {
+          "timestamp": "2018-12-10T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-11T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-12T00:00:00.000Z",
+          "net_bytes_diff": 5185
+        },
+        {
+          "timestamp": "2018-12-13T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-14T00:00:00.000Z",
+          "net_bytes_diff": 1134
+        },
+        {
+          "timestamp": "2018-12-15T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-16T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-17T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-18T00:00:00.000Z",
+          "net_bytes_diff": -662
+        },
+        {
+          "timestamp": "2018-12-19T00:00:00.000Z",
+          "net_bytes_diff": -9342
+        },
+        {
+          "timestamp": "2018-12-20T00:00:00.000Z",
+          "net_bytes_diff": 1504
+        },
+        {
+          "timestamp": "2018-12-21T00:00:00.000Z",
+          "net_bytes_diff": -3309
+        },
+        {
+          "timestamp": "2018-12-22T00:00:00.000Z",
+          "net_bytes_diff": 957
+        },
+        {
+          "timestamp": "2018-12-23T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-24T00:00:00.000Z",
+          "net_bytes_diff": 421
+        },
+        {
+          "timestamp": "2018-12-25T00:00:00.000Z",
+          "net_bytes_diff": -1
+        },
+        {
+          "timestamp": "2018-12-26T00:00:00.000Z",
+          "net_bytes_diff": 701
+        },
+        {
+          "timestamp": "2018-12-27T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-28T00:00:00.000Z",
+          "net_bytes_diff": 0
+        },
+        {
+          "timestamp": "2018-12-29T00:00:00.000Z",
+          "net_bytes_diff": -2
+        },
+        {
+          "timestamp": "2018-12-30T00:00:00.000Z",
+          "net_bytes_diff": 51
+        }
+      ]
+    }
+  ]
+}

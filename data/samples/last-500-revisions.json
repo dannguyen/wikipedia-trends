@@ -1,0 +1,2523 @@
+{
+  "continue": {
+    "rvcontinue": "20200522222917|958281503",
+    "continue": "||"
+  },
+  "query": {
+    "normalized": [
+      {
+        "from": "Donald_Trump",
+        "to": "Donald Trump"
+      }
+    ],
+    "pages": {
+      "4848272": {
+        "pageid": 4848272,
+        "ns": 0,
+        "title": "Donald Trump",
+        "revisions": [
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-06-30T15:00:13Z",
+            "comment": "/* George Floyd protests */ simplify pic caption"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-29T22:10:45Z",
+            "comment": "restoring text established by talk page consensus"
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T21:57:43Z",
+            "comment": "/* Racial views */ remove paragraph that is not about racial views of donald trump from overly long section"
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T21:52:11Z",
+            "comment": "/* Coronavirus pandemic */ way too much detail in this section, most belongs in subarticles. Also not written in a neutral tone."
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T21:41:39Z",
+            "comment": "moving this sentence to somewhere it fits better"
+          },
+          {
+            "user": "HaeB",
+            "timestamp": "2020-06-29T08:28:43Z",
+            "comment": "Bzweebl did have a point in the preceding edits that the 2016 primaries (including the number of candidates) may be too much detail for the lede at this point. Trying to streamline it like this"
+          },
+          {
+            "user": "HaeB",
+            "timestamp": "2020-06-29T07:06:26Z",
+            "comment": "Reverted 3 edits by Bzweebl: Nothing against some updates where needed, but this article surely needs to retain the general characterizations as e.g. populist and protectionist, and keep the link to the main article [[Political positions of Donald Trump]] (cf. [[WP:SUMMARY]]) ([[WP:TW|TW]])"
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T06:57:18Z",
+            "comment": "/* Political positions */ deleting this entire section because it feels pointless to include in this massively bloated article since it was clearly written before he was elected and since he has actually implemented policies as president, detailed discussion of the policies he campaigned on are better suited for the relevant article"
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T06:50:52Z",
+            "comment": "capitalization"
+          },
+          {
+            "user": "Bzweebl",
+            "timestamp": "2020-06-29T06:49:22Z",
+            "comment": "remove info about primary and campaign that read like it was written before the general election took place (which I'm sure it was)"
+          },
+          {
+            "user": "Tobby72",
+            "timestamp": "2020-06-28T19:00:00Z",
+            "comment": "fixed"
+          },
+          {
+            "user": "Tobby72",
+            "timestamp": "2020-06-28T18:58:52Z",
+            "comment": "update"
+          },
+          {
+            "user": "Nick.mon",
+            "timestamp": "2020-06-28T10:39:28Z",
+            "comment": "/* George Floyd protests */"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-28T02:03:03Z",
+            "comment": "/* Pardons and commutations */"
+          },
+          {
+            "user": "Markbassett",
+            "timestamp": "2020-06-27T07:08:47Z",
+            "comment": "/* Trump wall */ correction per cite - it’s “replaced” (different fence) not “renovated” (fixed old fence)"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-26T20:49:34Z",
+            "comment": "Reverted to revision 964511002 by [[Special:Contributions/Speed74|Speed74]] ([[User talk:Speed74|talk]]): Use mdy dates ([[WP:TW|TW]])"
+          },
+          {
+            "user": "Raghuveer Aavula",
+            "timestamp": "2020-06-26T17:24:52Z",
+            "comment": ""
+          },
+          {
+            "user": "Raghuveer Aavula",
+            "timestamp": "2020-06-26T17:24:01Z",
+            "comment": ""
+          },
+          {
+            "user": "Speed74",
+            "timestamp": "2020-06-25T22:52:06Z",
+            "comment": "improved wording: the more notable fact is that he won the election, with the popular vote being a secondary issue"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-25T12:32:37Z",
+            "comment": "/* top */ partial rv per [[Talk:Donald Trump#Current consensus]], item 35 - see talk"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-25T10:48:57Z",
+            "comment": "per talk, and developments in Social Media subsection, revise \"false statements\" sentence; new paragraph"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-25T10:41:56Z",
+            "comment": "/* Coronavirus pandemic */ ce"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-25T10:40:36Z",
+            "comment": "/* Coronavirus pandemic */ withdraw from WHO, citation"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-25T06:53:12Z",
+            "comment": "per talk page"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-25T04:08:46Z",
+            "comment": "annual limit"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-25T04:07:45Z",
+            "comment": "Trump limiting legal immigration"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-25T01:02:58Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-25T00:55:38Z",
+            "comment": "/* External links */ rv navboxes per [[Talk:Donald Trump/Archive 118#Proposal: remove the navboxes]]"
+          },
+          {
+            "user": "Openmy",
+            "timestamp": "2020-06-24T21:04:52Z",
+            "comment": ""
+          },
+          {
+            "user": "Iamreallygoodatcheckers",
+            "timestamp": "2020-06-24T21:03:35Z",
+            "comment": "/* George Floyd protests */ looks better on the right"
+          },
+          {
+            "user": "Iamreallygoodatcheckers",
+            "timestamp": "2020-06-24T21:01:38Z",
+            "comment": "/* George Floyd protests */ wrong hyperlink"
+          },
+          {
+            "user": "Openmy",
+            "timestamp": "2020-06-24T21:01:03Z",
+            "comment": ""
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-06-24T08:06:05Z",
+            "comment": "Undid revision 964211288 by [[Special:Contributions/Lethweimaster|Lethweimaster]] ([[User talk:Lethweimaster|talk]]) Do we really need a link to the US dollar currency? Isn't that [[MOS:OVERLINK]]?"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-06-24T08:03:02Z",
+            "comment": "/* Migrant detentions */ Link to [[Flores Agreement]] for context"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-24T07:38:18Z",
+            "comment": "attempted indefinite migrant family detention. [[User:JFG]] - this is what you meant?"
+          },
+          {
+            "user": "Speipk0",
+            "timestamp": "2020-06-24T07:21:27Z",
+            "comment": "/* Travel ban */"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-24T07:11:38Z",
+            "comment": "Trump has disparaged several of his former top officials as incompetent, stupid, or crazy."
+          },
+          {
+            "user": "Lethweimaster",
+            "timestamp": "2020-06-24T05:39:52Z",
+            "comment": "Net worth"
+          },
+          {
+            "user": "JLo-Watson",
+            "timestamp": "2020-06-23T13:23:45Z",
+            "comment": "Withdrawn from WHO"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-22T22:49:35Z",
+            "comment": "self-revert because of 1RR *sigh*"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-22T22:21:21Z",
+            "comment": "Undid revision 963981358 by [[Special:Contributions/Scjessey|Scjessey]] ([[User talk:Scjessey|talk]]) unsourced"
+          },
+          {
+            "user": "Scjessey",
+            "timestamp": "2020-06-22T22:19:35Z",
+            "comment": "BLPs are written in the historical perspective."
+          },
+          {
+            "user": "Alcaios",
+            "timestamp": "2020-06-22T20:27:50Z",
+            "comment": "WP:MOS"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-22T13:16:08Z",
+            "comment": ""
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-22T12:52:22Z",
+            "comment": "Undid revision 963898146 by [[Special:Contributions/Brogo13|Brogo13]] ([[User talk:Brogo13|talk]])"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-22T12:39:49Z",
+            "comment": "[[Manual_of_Style/Dates_and_numbers#Statements_likely_to_become_outdated|Please.]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-22T10:50:47Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-22T05:29:54Z",
+            "comment": "last time i checked hes still in office"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-06-22T05:04:57Z",
+            "comment": "Restore updated lead summary of immigration policy, following peer review and talk page workshop"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-21T14:32:15Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-21T10:39:11Z",
+            "comment": "/* Health and lifestyle */ rm superfluous word"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-21T09:22:05Z",
+            "comment": "/* Health and lifestyle */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-21T09:14:38Z",
+            "comment": "/* Health and lifestyle */ cite cleanup, mce"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-20T20:31:24Z",
+            "comment": "Reverted to revision 963578915 by [[Special:Contributions/Bdushaw|Bdushaw]] ([[User talk:Bdushaw|talk]]) ([[WP:TW|TW]])"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-06-20T19:15:48Z",
+            "comment": ""
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-20T16:11:04Z",
+            "comment": "/* False statements */ wikilink liberal democracy, a well defined term"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-20T07:37:57Z",
+            "comment": "Undid revision 963475342 by [[Special:Contributions/JerzyA|JerzyA]] ([[User talk:JerzyA|talk]]) - Yes, but this detail is not particularly relevant to Trump's life. This article is not about New York City. Readers who want to know more may click the [[Queens]] link."
+          },
+          {
+            "user": "JerzyA",
+            "timestamp": "2020-06-20T00:13:12Z",
+            "comment": "OMG, anyone who doesn’t know Queens is part of NYC needs to also be told the boros weren’t created in multiple dozens"
+          },
+          {
+            "user": "John Broughton",
+            "timestamp": "2020-06-20T00:06:34Z",
+            "comment": "/* Health and lifestyle */ Adding information on 2020 examination."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-19T04:03:15Z",
+            "comment": "Undid revision 963307205 by [[Special:Contributions/EsotericJoe|EsotericJoe]] ([[User talk:EsotericJoe|talk]]) - unnecessary"
+          },
+          {
+            "user": "EsotericJoe",
+            "timestamp": "2020-06-19T02:21:24Z",
+            "comment": "Year of the photo"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-18T18:08:50Z",
+            "comment": "Undid revision 963015750 by [[Special:Contributions/JFG|JFG]] ([[User talk:JFG|talk]]) See talk page.  Changing established enumerated consensus needs new explicit consensus.  Reinstating enumerated consensus."
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-06-18T17:05:11Z",
+            "comment": "/* George Floyd protests */ punctuation"
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-06-18T17:03:31Z",
+            "comment": "/* George Floyd protests */ replacement image"
+          },
+          {
+            "user": "Filedelinkerbot",
+            "timestamp": "2020-06-18T01:06:50Z",
+            "comment": "Bot: Removing [[:File:Donald J. Trump posing with Bible in front of St. John's Episcopal Church, Lafayette Square, Washington, D.C., June 1, 2020.png]] , deleted by [[:User:Fastily|Fastily]] ([[Wikipedia:Files for discussion/2020 June 10#File:Donald J. Trump posing with Bible in front of St. John&#39;s Episcopal Church, Lafayette Square, Washington, D.C., June 1, 2020.png]])."
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-06-17T09:04:12Z",
+            "comment": "/* top */ Update lead text on immigration policy, following peer review, additions to the body, and phrasing discussion at [[Talk:Donald Trump#Implementing the suggestions from the recent Peer Review]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-15T12:26:13Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-15T12:24:02Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-15T10:47:10Z",
+            "comment": ""
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-15T08:14:15Z",
+            "comment": "/* False statements */ Attempt to revise quote - return to quotes, include brackets about translated terms"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-15T04:36:42Z",
+            "comment": "/* False statements */ mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-15T04:34:00Z",
+            "comment": "[[MOS:PUNCT]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-15T03:51:08Z",
+            "comment": "/* False statements */ Democracy->democracy per dictionary"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-15T03:46:10Z",
+            "comment": "/* False statements */ don't use [[Template:Talk quote block]] in articles, and don't call an excerpt a paraphrase"
+          },
+          {
+            "user": "HAL333",
+            "timestamp": "2020-06-14T21:00:23Z",
+            "comment": "not super relevant"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T20:53:19Z",
+            "comment": "/* WWE */ fix refname error"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T20:39:26Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T20:26:49Z",
+            "comment": "/* False statements */ cite cleanup, mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T20:15:27Z",
+            "comment": "/* False statements */ [[MOS:OVERLINK]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T20:04:39Z",
+            "comment": "/* Social media */ cite cleanup, mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T19:50:38Z",
+            "comment": "/* False statements */ cite cleanup"
+          },
+          {
+            "user": "Shinkolobwe",
+            "timestamp": "2020-06-14T19:31:57Z",
+            "comment": "/* False statements */ Avoiding a disambiguation page: [[lies]] —> [[lie]]s"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-14T14:56:54Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-14T14:26:33Z",
+            "comment": "/* Social media */ per talk, revise subsection to give tweet numbers, and state the platform is official policy; citations"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-14T13:51:56Z",
+            "comment": "/* False statements */ no apologies and citation"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-14T13:10:38Z",
+            "comment": "/* False statements */ ce's per talk; correct awkward language; correct citation date"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T08:22:56Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T08:17:01Z",
+            "comment": "/* ISIS, Syria and Afghanistan */ cite cleanup, mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T08:11:34Z",
+            "comment": "/* Social media */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-14T08:04:47Z",
+            "comment": "/* George Floyd protests */ cite cleanup"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-14T04:54:17Z",
+            "comment": "Trump publicly threatened to attack Iranian cultural sites, or react \"in a disproportionate manner\" if Iran retaliated; though such attacks by the U.S. would violate international law as war crimes."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-14T04:49:25Z",
+            "comment": "Trump ordered U.S. troops to secure the oil fields in eastern Syria"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-14T04:34:39Z",
+            "comment": "In November 2019, Trump said that the remaining American troops in Syria were there \"only for the oil\", and that the U.S. was \"keeping the oil\" (seizing oil without local government permission would be a war crime of [[pillage]])."
+          },
+          {
+            "user": "InedibleHulk",
+            "timestamp": "2020-06-13T23:24:42Z",
+            "comment": "/* WWE */ Pronouned."
+          },
+          {
+            "user": "InedibleHulk",
+            "timestamp": "2020-06-13T23:23:27Z",
+            "comment": "/* Professional wrestling */ Just a WWE guy, not into general pro wrestling. Split off historic names. Noted Linda's major roles."
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-13T22:33:22Z",
+            "comment": "/* False statements */ correct citation date"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-13T21:23:38Z",
+            "comment": "/* False statements */ ce"
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-13T21:23:03Z",
+            "comment": "/* False statements */ Per talk include discussion of effects and consequence of falsehoods/\"lie\""
+          },
+          {
+            "user": "Bdushaw",
+            "timestamp": "2020-06-13T21:21:50Z",
+            "comment": "/* Public profile */ Per talk, reorganize subsections to list Social media, Falsehoods, and Press together"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-13T19:58:52Z",
+            "comment": "/* Hush payments */ Sex is implied by \"affair\" if I'm not mistaken. That she claimed it was unprotected seems undue, especially considering that there is no claim anybody caught a baby or anything else."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-13T18:17:31Z",
+            "comment": "/* George Floyd protests */ [[MOS:EGG]]"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-13T16:18:22Z",
+            "comment": "/* George Floyd protests */ Per the source."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-13T16:15:51Z",
+            "comment": "/* George Floyd protests */ OR? The cited sources do not mention Ashburton House or that Trump posed in front of the parish house, for that matter. Adding source. Trump was joined in the photo by two members of his cabinet (Barr, Esper), one cabinet-level official (Meadows), the national security advisor (O'Brien), and the press secretary (McEnany)."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-13T15:46:08Z",
+            "comment": "/* George Floyd protests */ OR? Ashburton House is the official name of the parish house of St. John's Episcopal Church at Lafayette Square but none of the cited sources mentions it."
+          },
+          {
+            "user": "Loginnigol",
+            "timestamp": "2020-06-13T14:18:18Z",
+            "comment": "citation added"
+          },
+          {
+            "user": "Loginnigol",
+            "timestamp": "2020-06-13T14:14:33Z",
+            "comment": "/* Hush payments */"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-13T05:26:44Z",
+            "comment": "/* Coronavirus pandemic */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-13T05:02:23Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-13T04:55:47Z",
+            "comment": "/* George Floyd protests */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-12T18:02:50Z",
+            "comment": "Undid revision 962175468 by [[Special:Contributions/SK2242|SK2242]] ([[User talk:SK2242|talk]]) - This caption has been removed as unnecessary several times. The photo is clearly during his presidency and nobody's appearance changes much between 70 and 73. Therefore the date is not significant enough to justify the space required for it."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-12T17:37:58Z",
+            "comment": "/* Religion */ Both cites explain that Peale was the author of a self-help book, not that Trump ever claimed to have read it (\"To this day one of the great speakers I've seen. ... You hated when the sermon was over.\" \"would give the best sermons of anyone; he was an amazing public speaker\")."
+          },
+          {
+            "user": "SK2242",
+            "timestamp": "2020-06-12T14:43:01Z",
+            "comment": "Caption"
+          },
+          {
+            "user": "Scjessey",
+            "timestamp": "2020-06-12T11:28:41Z",
+            "comment": "Undid revision 962120645 by [[Special:Contributions/Starship.paint|Starship.paint]] ([[User talk:Starship.paint|talk]]) - Not for this article. It should go in [[Donald Trump 2020 presidential campaign]]."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-12T06:24:45Z",
+            "comment": "After a three month pause, Trump is due to resume rallies in mid-June 2020 amid the COVID-19 pandemic, with rallygoers having to agree not to hold the campaign liable for COVID-19 exposure."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-11T21:25:50Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-11T21:21:03Z",
+            "comment": "/* Relationship with the press */ redundant, already stated two sentences earlier"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-11T19:23:55Z",
+            "comment": "move \"second favorite book\" to the section where it has at least some relevance, and copy edit"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-11T19:15:48Z",
+            "comment": "/* Religion */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-11T19:11:52Z",
+            "comment": "/* Racial views */ cite cleanup"
+          },
+          {
+            "user": "Snooganssnoogans",
+            "timestamp": "2020-06-11T19:02:14Z",
+            "comment": "/* Racial views */ still a birther"
+          },
+          {
+            "user": "Psiĥedelisto",
+            "timestamp": "2020-06-11T06:38:39Z",
+            "comment": "/* Religion */ add missing cite"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-11T05:47:08Z",
+            "comment": "America's global reputation was damaged during the pandemic, largely due to Trump's inadequate response to the crisis."
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-10T19:19:14Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T11:24:57Z",
+            "comment": "order"
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-06-10T10:29:37Z",
+            "comment": "/* George Floyd protests */ fire and posing at [[Ashburton House]] [[parish house]] rather than the church itself"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:56:11Z",
+            "comment": "/* North Korea */ Recasting awkward & possibly misleading"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:54:33Z",
+            "comment": "/* North Korea */ Removing repetition"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:52:55Z",
+            "comment": "/* North Korea */ Removing unnecessary and discriminatory geographical descriptions"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:51:37Z",
+            "comment": "/* North Korea */"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:50:13Z",
+            "comment": "/* North Korea */ Again, we don't need scheduling details in a top-level article"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:34:35Z",
+            "comment": "/* North Korea */ Scheduling details are an unnecessary detail in a top-level article like this"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:33:02Z",
+            "comment": "/* North Korea */ Removing repetition"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:31:34Z",
+            "comment": "/* North Korea */ Removing unnecessary words"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:30:06Z",
+            "comment": "/* North Korea */ Clarify - Moon had not stopped negotiations"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:25:25Z",
+            "comment": "/* North Korea */ Removing repetition"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T09:23:59Z",
+            "comment": "Despite a campaign promise to eliminate the national debt in eight years, Trump as president has approved large increases in government spending, as well as the 2017 tax cut. As a result, the American government's budget deficit has increased by almost 50%, to nearly $1 trillion in 2019."
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-10T09:22:55Z",
+            "comment": "/* Iran */ Ballistic is meaningless in the context"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T09:09:16Z",
+            "comment": "In December 2017, Trump signed the [[Tax Cuts and Jobs Act of 2017]], which permanently cut the corporate tax rate to 21 percent, temporarily lowered personal tax brackets until 2025"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T09:02:30Z",
+            "comment": "In April 2020, the official unemployment rate shot up to 14.7% due to the COVID-19 pandemic. This was an underestimation of the actual unemployment rate, but still was the highest level of unemployment since 1939."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T08:54:15Z",
+            "comment": "link"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T08:49:39Z",
+            "comment": "[[recession]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T08:48:42Z",
+            "comment": "duplicate removed"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T08:48:13Z",
+            "comment": "This ended in February 2020, when the COVID-19 pandemic sparked a recession. Throughout his presidency, he has repeatedly and falsely characterized the economy as the best in American history (at least four U.S. presidents have presided over better economies)."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-10T06:41:27Z",
+            "comment": "link"
+          },
+          {
+            "user": "Zarex",
+            "timestamp": "2020-06-09T15:12:19Z",
+            "comment": ""
+          },
+          {
+            "user": "Acekard",
+            "timestamp": "2020-06-09T09:22:40Z",
+            "comment": ""
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-08T15:36:19Z",
+            "comment": "/* Coronavirus pandemic */ Restore longstanding wording about Trump's slow response. This was extensively discussed on talk and the removal of \"Trump was slow\" is against clear consensus there. See  [https://en.wikipedia.org/wiki/Talk:Donald_Trump/Archive_115#Reducing_editorialising_and_sensational_language] and related archive threads."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T14:50:13Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T14:46:23Z",
+            "comment": "coronavirus task force"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T14:34:08Z",
+            "comment": "In early May, President Trump proposed that the coronavirus task force should be phased out, to accommodate another group centered on reopening the economy. Amid a backlash, Trump publicly stated that the coronavirus task force would continue on \"indefinitely\". By the end of May, the coronavirus task force was conducting only weekly meetings, instead of the previous daily meetings."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T07:18:59Z",
+            "comment": "In February 2020, Trump campaign adviser Roger Stone was sentenced to over three years in jail, after being convicted of lying to Congress and witness tampering regarding his attempts to learn more about hacked Democratic emails during the 2016 election. The sentencing judge stated that Stone \"was prosecuted for covering up for the president\". With Stone yet to report to jail, Trump publicly stated that Stone \"can sleep well at night\"."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:54:37Z",
+            "comment": "On January 8, Iran retaliated by launching airstrikes on [[Al Asad Air Base]] in Iraq; initially the Trump administration claimed no Americans suffered injuries, then Trump said injuries were not \"very serious\", but by February 2020, over 100 [[traumatic brain injuries]] were diagnosed in U.S. troops"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:38:01Z",
+            "comment": "shift"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:12:15Z",
+            "comment": "already linked"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:11:26Z",
+            "comment": "links"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:09:39Z",
+            "comment": "Lafayette Square, in one room"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:05:04Z",
+            "comment": "source: \"Trump himself owns up to no mistakes.\"                  changed text: \"Trump refused to admit any mistakes in his handling of the outbreak\""
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:03:15Z",
+            "comment": "instead blaming"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:02:41Z",
+            "comment": "restore part where he refused to admit blame"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T06:01:10Z",
+            "comment": "restore, it was a false claim."
+          },
+          {
+            "user": "Onetwothreeip",
+            "timestamp": "2020-06-08T05:51:48Z",
+            "comment": "/* Coronavirus pandemic */ Trimming repetition, cites. More encyclopedic language."
+          },
+          {
+            "user": "Onetwothreeip",
+            "timestamp": "2020-06-08T05:38:53Z",
+            "comment": "/* George Floyd protests */ Trimming refs per Starship.paint"
+          },
+          {
+            "user": "Onetwothreeip",
+            "timestamp": "2020-06-08T05:36:15Z",
+            "comment": "/* Photo op at St. John's Church */ Trimming re suitability for a top-level article. The section should also be about Trump and the protests generally."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T05:29:32Z",
+            "comment": "trim extra refs. .... Trump posed for photographs in front of the church, holding a Bible aloft, and then had his officials join him for more photos, before walking back to the White House"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T05:25:48Z",
+            "comment": "during the protests of the night before"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T05:24:00Z",
+            "comment": "Trump then walked to [[St. John's Episcopal Church, Lafayette Square|St. John's Episcopal Church]], which during the night before had experienced a small fire contained to one room of the church, according to the church's rector. Trump posed for photographs in front of the church, holding a Bible aloft, and then had Cabinet members join him for more photos before walking back to the White House."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T05:16:51Z",
+            "comment": "Trump did not enter the church during this appearance. Religious leaders across the United States condemned the treatment of protesters; the photo op itself was also criticized by leaders of different faiths. Meanwhile, many retired military leaders and retired defense officials condemned Trump's proposal to use the U.S. military against the protesters."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:48:24Z",
+            "comment": "As of May 2020, North Korea has shown no indication that it is willing to unilaterally denuclearize as Trump has urged it to."
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-08T04:27:19Z",
+            "comment": "/* North Korea */"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:21:49Z",
+            "comment": "A summit was arranged; Trump cancelled it, then later reinstated it. On June 12, 2018, Trump and Kim met in Singapore, resulting in North Korea affirming its intention \"to work toward complete denuclearization of the Korean Peninsula"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:16:11Z",
+            "comment": "both countries blamed each other"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:14:03Z",
+            "comment": "[[second Trump–Kim summit]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:12:20Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:04:22Z",
+            "comment": "[[Kim Jong-un]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T04:03:40Z",
+            "comment": "Also in September 2017, Trump increased sanctions on North Korea, declared that he wanted North Korea's \"complete denuclearization\", and engaged in [[name-calling]] with North Korean leader [[Kim Jong-Un]]."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:52:31Z",
+            "comment": "In August 2017, Trump escalated his rhetoric against North Korea, warning that North Korean threats would be met with \"fire and fury like the world has never seen\"."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:35:27Z",
+            "comment": "In 2017, improved technology resulted in North Korea's nuclear weapons becoming increasingly seen as a serious threat to the United States."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:30:53Z",
+            "comment": "North Korea responded by releasing plans for missile tests that would land near [[Guam]], a U.S. territory. In September, Trump addressed the [[United Nations General Assembly]], stating that the U.S. would \"totally destroy North Korea\" if \"forced\" to defend itself or its allies."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:19:10Z",
+            "comment": "trim refs"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:13:08Z",
+            "comment": "In November, Trump urged North Korea to denuclearize completely."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-08T03:06:18Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Davemck",
+            "timestamp": "2020-06-07T21:04:49Z",
+            "comment": "Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-07T17:30:52Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-07T16:53:10Z",
+            "comment": "remove all |ref=harv per [[:Category:CS1 maint: ref=harv]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-07T15:37:14Z",
+            "comment": "replace Australian reprint with the NYT original"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-07T15:25:12Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T08:41:48Z",
+            "comment": "As of May 2020, North Korea has shown no indication that it is willing to unilaterally denuclearize as the U.S. intends for it to."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T08:40:55Z",
+            "comment": "As of May 2020, North Korea has shown no indication that it is willing to unilaterally denuclearize as the U.S. intends."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T08:39:33Z",
+            "comment": "As of May 2020, North Korea has shown no indication that it is willing to unilaterally denuclearize."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T05:04:42Z",
+            "comment": "[[Michael Flynn]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T05:02:04Z",
+            "comment": "Trump has repeatedly praised Russian president [[Vladimir Putin]]."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T05:01:27Z",
+            "comment": "As president, Trump has criticized Russia"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T05:00:35Z",
+            "comment": "shift, Putin"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:54:42Z",
+            "comment": "When Putin in 2017 expelled over half of the staff of the [[Embassy of the United States, Moscow|American embassy in Russia]], Trump responded by thanking Putin, instead of criticizing him."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:52:43Z",
+            "comment": "duplicate"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:52:12Z",
+            "comment": "Trump has repeatedly praised Russian leader Putin. When Putin in 2017 expelled over half of [[Trump has repeatedly praised Russian leader Putin. When Putin in 2017 expelled over half of U.S. embassy staff in Russia, Trump responded with thanks, not criticism.|U.S. embassy staff in Russia]], Trump responded by thanking Putin, instead of criticizing him."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:28:30Z",
+            "comment": "relayed via South Korean diplomats"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:25:45Z",
+            "comment": "split"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:25:04Z",
+            "comment": "In March 2018, Trump immediately agreed to a proposal relayed by South Korean diplomats from Kim, that Trump and Kim should personally meet."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:23:45Z",
+            "comment": "In March 2018, Trump immediately agreed to a proposal relayed by South Korean diplomats that he personally meet with Kim"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:15:12Z",
+            "comment": "A [[2019 North Korea–United States Hanoi Summit|second summit]] in [[Hanoi]], Vietnam during February 2019, ended in failure."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-07T04:12:40Z",
+            "comment": "A [[2019 North Korea–United States Hanoi Summit|second summit]] took place in February 2019, in [[Hanoi]], Vietnam, which ended in failure. The Hanoi summit was terminated abruptly without an agreement; both sides blamed each other and offered differing accounts of the negotiations."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-07T00:01:32Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-06T23:06:37Z",
+            "comment": "/* Racial views */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-06T22:56:08Z",
+            "comment": "/* Racial views */ partial rv, not improvement"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-06T21:56:30Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-06T16:32:56Z",
+            "comment": "/* Responses to George Floyd protests */ This title visited by another drive-by editor. The photo op at the church is still the main event here; if and when that changes, the title will be changed as well."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-06T15:11:25Z",
+            "comment": "/* Responses to George Floyd protests */ Article was updated today"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-06T15:08:41Z",
+            "comment": "/* Responses to George Floyd protests */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-06T15:07:38Z",
+            "comment": "/* Responses to George Floyd protests */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-06T15:03:59Z",
+            "comment": "/* Responses to George Floyd protests */"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-06T11:21:02Z",
+            "comment": "/* Responses to George Floyd protests */ Target article title change"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-06T02:34:57Z",
+            "comment": "remove for PEIS. also formally proposed on talk page"
+          },
+          {
+            "user": "Awesome Aasim",
+            "timestamp": "2020-06-06T00:24:11Z",
+            "comment": "Cleaned up using [[WP:AutoEd|AutoEd]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-05T21:34:41Z",
+            "comment": "/* Responses to George Floyd protests */ +serial comma per article convention"
+          },
+          {
+            "user": "Skullkrane",
+            "timestamp": "2020-06-05T21:18:34Z",
+            "comment": "Changed title to make more relevant to the paragraphs. Minor detail added in paragraph two."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-05T20:44:52Z",
+            "comment": "/* Photo-op at St. John's Church */ move Barr into context"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-05T20:37:35Z",
+            "comment": ""
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T19:27:58Z",
+            "comment": "/* Photo-op at St. John's Church */ See Talk, \"Iconic photo\""
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T18:36:18Z",
+            "comment": "Undid revision 960935438 by [[Special:Contributions/Space4Time3Continuum2x|Space4Time3Continuum2x]] ([[User talk:Space4Time3Continuum2x|talk]])Self-reverted"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T18:35:36Z",
+            "comment": "/* Photo-op at St. John's Church */ Test - will revert"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T18:33:30Z",
+            "comment": "Undid revision 960935069 by [[Special:Contributions/Space4Time3Continuum2x|Space4Time3Continuum2x]] ([[User talk:Space4Time3Continuum2x|talk]])Self-revert"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T18:32:51Z",
+            "comment": "/* Photo-op at St. John's Church */ Test - will revert"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-05T14:33:35Z",
+            "comment": "Reverted edits by [[Special:Contribs/MrX|MrX]] ([[User talk:MrX|talk]]) to last version by Scjessey"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-05T14:31:39Z",
+            "comment": "Test. Will self revert in a second."
+          },
+          {
+            "user": "Scjessey",
+            "timestamp": "2020-06-05T11:53:06Z",
+            "comment": "/* External links */  - redundant \"links to related articles\" eliminated to try to assist in the PEIS limit issue"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-05T07:43:10Z",
+            "comment": "/* Killing of George Floyd */ Reverting section to last version by MrX https://en.wikipedia.org/w/index.php?title=Donald_Trump&diff=prev&oldid=960732591. See Talk."
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-05T06:55:59Z",
+            "comment": "Removing badly worded and unchronological sentence about George Floyd unrest"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-05T05:38:31Z",
+            "comment": "/* False statements */ mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-05T05:37:12Z",
+            "comment": "/* False statements */ update Kessler counter"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-05T03:48:56Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Sdkb",
+            "timestamp": "2020-06-05T02:50:42Z",
+            "comment": "/* Killing of George Floyd */ moving main hatnote to correct spot"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-05T02:35:35Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-05T01:47:56Z",
+            "comment": "He has been awarded five honorary doctorates, but one was revoked by [[Robert Gordon University]] in 2015 after Trump called for a Muslim ban, citing Trump's speech being \"wholly incompatible ... with the ethos and values of the university\". The remaining awards are [[Lehigh University]]'s honorary doctorate of laws in 1988, [[Wagner College]]'s honorary doctorate of humane letters in 2004, and [[Liberty University]]'s honorary doctorates of business and law in 2012 and 2017 respectively."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-05T01:32:29Z",
+            "comment": "trim"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-04T21:34:31Z",
+            "comment": "/* Legal affairs and bankruptcies */ grammar"
+          },
+          {
+            "user": "ZiplineWhy",
+            "timestamp": "2020-06-04T21:00:34Z",
+            "comment": ""
+          },
+          {
+            "user": "ZiplineWhy",
+            "timestamp": "2020-06-04T20:55:58Z",
+            "comment": "Improved lead sentence"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-04T17:38:47Z",
+            "comment": "ce; [[Oy vey|again]] with the [[wp:Manual_of_Style#Typographic_conformity|curlies]]"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-04T16:19:09Z",
+            "comment": "/* Photo op at St. John's Church */ For style consistency. photo-op and photo op are both commonly used, but we should at least be consistent within a single artilce."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T15:56:06Z",
+            "comment": "who oversees the church"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T15:51:39Z",
+            "comment": "Trump spent around five minutes on the church grounds; he did not actually enter the church itself."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T15:47:23Z",
+            "comment": "in front of the church"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T15:46:04Z",
+            "comment": "holding a Bible"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T15:44:55Z",
+            "comment": "Trump did not enter the church"
+          },
+          {
+            "user": "Gandydancer",
+            "timestamp": "2020-06-04T15:28:09Z",
+            "comment": "/* Photo op at St. John's Church */ I'm pretty sure this should be a cap"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T15:22:13Z",
+            "comment": "/* Photo op at St. John's Church */Let's be precise"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T15:19:20Z",
+            "comment": "/* Photo op at St. John's Church */ Trimming caption"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-04T15:15:45Z",
+            "comment": "/* Photo op at St. John's Church */ ce"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T14:41:45Z",
+            "comment": "iconic photo"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-04T14:37:08Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T13:39:50Z",
+            "comment": "/* Photo-op at St. John's Church */ Removing hyphen"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T13:35:15Z",
+            "comment": "/* Photo-op at St. John's Church */ Law enforcement used a chemical compound whose effects are similar to those of tear gas (everything except the vomiting - https://www.aftermath.com/content/tear-gas-vs-pepper-spray/)"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-04T11:48:49Z",
+            "comment": "/* Real estate */ Copyedit (minor)"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T09:29:36Z",
+            "comment": "refs"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-04T09:23:59Z",
+            "comment": "other immigration policies"
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-06-04T09:02:18Z",
+            "comment": "/* Photo-op at St. John's Church */ fire damage to nursery in priory, not church"
+          },
+          {
+            "user": "TerraFrost",
+            "timestamp": "2020-06-04T08:41:50Z",
+            "comment": "add space"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T07:04:48Z",
+            "comment": "/* Photo-op at St. John's Church */ Per WaPo cite: \"according to two people familiar with his comments who, like others, spoke on the condition of anonymity to describe private conversations\""
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-04T07:01:04Z",
+            "comment": "/* Officer killing of George Floyd */ This section is not about the killing of George Floyd, it's about the photo-op, and photo-op now appears to be the generally used name"
+          },
+          {
+            "user": "Jack Upland",
+            "timestamp": "2020-06-04T04:07:11Z",
+            "comment": "/* Officer killing of George Floyd */"
+          },
+          {
+            "user": "ZiplineWhy",
+            "timestamp": "2020-06-04T02:58:26Z",
+            "comment": "Added sources. The new section should also include Trump's condemnation of Floyd's passing, and more information."
+          },
+          {
+            "user": "ZiplineWhy",
+            "timestamp": "2020-06-04T02:51:42Z",
+            "comment": "Added George Floyd protests to the lead"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-04T01:59:29Z",
+            "comment": "ce"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-04T01:48:36Z",
+            "comment": "/* Officer killing of George Floyd */ article title changed"
+          },
+          {
+            "user": "Smeat75",
+            "timestamp": "2020-06-04T01:18:35Z",
+            "comment": "/* Officer killing of George Floyd */ neutral"
+          },
+          {
+            "user": "Awilley",
+            "timestamp": "2020-06-04T00:08:39Z",
+            "comment": "/* Officer killing of George Floyd */ added {{clarify}} with a question (This is not an endorsement of this subsection, just tagging an apparent contradiction)"
+          },
+          {
+            "user": "ZiplineWhy",
+            "timestamp": "2020-06-03T23:29:59Z",
+            "comment": "Changed it to be about George Floyd in general: just needs expansion."
+          },
+          {
+            "user": "Markbassett",
+            "timestamp": "2020-06-03T23:24:39Z",
+            "comment": "/* Presidency */  remove church subsection - not BLP significant, certainly UNDUE to give as one-of-six subsections of Presidenct"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-03T20:12:10Z",
+            "comment": "[[wp:Too long; didn't read|ce]]"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-03T19:48:10Z",
+            "comment": "/* Manhattan developments */ trim"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-03T19:40:40Z",
+            "comment": "/* Professional wrestling */trim"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-03T19:38:52Z",
+            "comment": "/* The Apprentice */"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-03T19:37:44Z",
+            "comment": "/* The Apprentice */ ce"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-06-03T19:12:31Z",
+            "comment": "/* St. John's Episcopal Church incident */ +main hatnote"
+          },
+          {
+            "user": "Brogo13",
+            "timestamp": "2020-06-03T19:00:20Z",
+            "comment": "ce"
+          },
+          {
+            "user": "Davemck",
+            "timestamp": "2020-06-03T18:22:17Z",
+            "comment": "rmv duplicate parm"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T18:14:46Z",
+            "comment": "/* St. John's Episcopal Church incident */ Smokey the Bear in riot gear, and Ivanka Trump carried the bible in a $1,540 Max Mara bag"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T18:02:11Z",
+            "comment": "/* St. John's Episcopal Church incident */ Trimming"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T17:41:30Z",
+            "comment": "/* St. John's Episcopal Church incident */ Eek, double typo"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-03T15:10:56Z",
+            "comment": "Undid revision 960541594 by [[Special:Contributions/JFG|JFG]] ([[User talk:JFG|talk]]) Wholesale revert of noteworthy sourced content is not helpful. Use the talk page to propose specific alternatives or edits to this content."
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-06-03T14:29:29Z",
+            "comment": "/* St. John's Episcopal Church incident */ This article doesn't need a two-paragraph section about an incident-of-the-day, no matter how shocking to some."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T14:23:51Z",
+            "comment": "/* St. John's Episcopal Church incident */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T14:19:31Z",
+            "comment": "/* St. John's Episcopal Church incident */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T11:50:44Z",
+            "comment": "/* Special counsel investigation */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T11:49:56Z",
+            "comment": "/* St. John's Episcopal Church incident */"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-03T11:40:01Z",
+            "comment": "U.S. Customs and Border Protection"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T11:39:16Z",
+            "comment": "/* St. John's Episcopal Church incident */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T11:37:16Z",
+            "comment": "/* Religion */ Moving to new section."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-03T11:34:36Z",
+            "comment": "/* Presidency */ The photo-op"
+          },
+          {
+            "user": "Tuckerlieberman",
+            "timestamp": "2020-06-03T04:35:00Z",
+            "comment": "/* Religion */ Added that the church appearance was recommended by his advisors"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-06-02T21:18:12Z",
+            "comment": "Reverted to revision 960349867 by JHunterJ: Rationale is inconsistent with [[MOS:DASH]]: \"...use either unspaced em dashes or spaced en dashes, with consistency in any one article.\" This article uses spaced endash. ([[WP:TW|TW]])"
+          },
+          {
+            "user": "TheGEICOgecko",
+            "timestamp": "2020-06-02T18:48:53Z",
+            "comment": "En-dashes should only be used for certain formats of dates and adjectives. I have replaced inappropriate en-dashes with em-dashes"
+          },
+          {
+            "user": "TheGEICOgecko",
+            "timestamp": "2020-06-02T18:37:21Z",
+            "comment": "/* Election to the presidency */ Replaced spaced en-dashes with em-dashes"
+          },
+          {
+            "user": "JHunterJ",
+            "timestamp": "2020-06-02T13:19:33Z",
+            "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: In June 1, 2020 → On June 1, 2020, President → president, ’s → 's"
+          },
+          {
+            "user": "GiantSnowman",
+            "timestamp": "2020-06-02T12:59:22Z",
+            "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-02T05:40:46Z",
+            "comment": "update ref, examples"
+          },
+          {
+            "user": "Featous",
+            "timestamp": "2020-06-02T04:01:52Z",
+            "comment": "/* Religion */ account by rector. I assume that this is considered a reliable source per [[WP:FACEBOOK]]"
+          },
+          {
+            "user": "Featous",
+            "timestamp": "2020-06-02T03:55:46Z",
+            "comment": "/* Religion */ bit stronger than \"not informed\""
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-02T03:35:48Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Tuckerlieberman",
+            "timestamp": "2020-06-02T02:56:50Z",
+            "comment": "/* Religion */ Bible pose outside St. John's Church"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-06-02T00:45:16Z",
+            "comment": "/* Racial views */ Remove \"rhetoric rather than policy\" which is stated in a very limited context in the cited UNDUE source and is not a conclusion widely voiced by RS, academic or secondary. This article and other Trump-related WP articles are replete with examples to the contrary -- policy actions that have been characterized as racist."
+          },
+          {
+            "user": "WEBDuB",
+            "timestamp": "2020-06-01T18:50:33Z",
+            "comment": "/* Racial views */"
+          },
+          {
+            "user": "WEBDuB",
+            "timestamp": "2020-06-01T18:00:35Z",
+            "comment": "/* Racial views */ add sources"
+          },
+          {
+            "user": "WEBDuB",
+            "timestamp": "2020-06-01T17:18:31Z",
+            "comment": "/* Racial views */"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-01T09:09:28Z",
+            "comment": "trimmed"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-01T09:07:19Z",
+            "comment": "trimmed"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-06-01T08:10:49Z",
+            "comment": "Tag has been added and removed several times. Work in progress, tag is not helpful."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-01T02:59:52Z",
+            "comment": "Trump has attempted to drastically escalate immigration enforcement. Some of the results are harsher immigration enforcement policies against asylum seekers from Central America than any modern U.S. president before him, and a significantly increased usage of migrant detentions and deportations"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-01T02:51:58Z",
+            "comment": "/* The Trump administration has significantly increased the usage of migrant detentions and deportations..   previous content seems to have been covered partially by the previous setence"
+          },
+          {
+            "user": "Hammelsmith",
+            "timestamp": "2020-06-01T02:21:26Z",
+            "comment": "/* Conflicts of interest */ce trimming"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-06-01T01:02:04Z",
+            "comment": "Typo"
+          },
+          {
+            "user": "AnomieBOT",
+            "timestamp": "2020-05-31T22:23:31Z",
+            "comment": "Dating maintenance tags: {{Too long}}"
+          },
+          {
+            "user": "Games of the world",
+            "timestamp": "2020-05-31T22:03:01Z",
+            "comment": "too long"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-31T15:48:25Z",
+            "comment": "/* Books */"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-31T15:46:35Z",
+            "comment": "/* Books */"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-31T15:46:07Z",
+            "comment": "/* Books */ Copyedit (minor)"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-31T15:44:40Z",
+            "comment": "/* Books */ ce clarify per talk inquiry"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T15:41:40Z",
+            "comment": "/* Coronavirus pandemic */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T15:39:08Z",
+            "comment": "/* Coronavirus pandemic */ cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T15:36:31Z",
+            "comment": "mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T15:32:09Z",
+            "comment": "/* 2018–2019 federal government shutdown */ cite cleanup; mce"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:59:56Z",
+            "comment": "Professional wrestling"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:49:23Z",
+            "comment": "date"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:48:23Z",
+            "comment": "/* Foundation */ Remove gratuitous logo"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:47:18Z",
+            "comment": "/* WWF/E */ Avoid using an acronym in a section heading"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:45:36Z",
+            "comment": "/* Side ventures */ Grammar"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:44:01Z",
+            "comment": "/* top */ Clearer and more compact"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:41:45Z",
+            "comment": "/* top */ Restore footnote explaining the notion of popular vote in the context of the U.S. electoral system"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:39:23Z",
+            "comment": "/* top */ [[MOS:EGG]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:38:38Z",
+            "comment": "/* National emergency regarding the southern border */"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-31T12:38:14Z",
+            "comment": "/* top */ Better link"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:29:49Z",
+            "comment": "typo"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:28:51Z",
+            "comment": "vetos regarding national emergency"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:06:40Z",
+            "comment": "split"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:03:59Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T12:03:24Z",
+            "comment": "wall funding"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T11:32:58Z",
+            "comment": "The shutdown caused an estimated 380,000 government employees to be [[furlough]]ed,"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T11:29:27Z",
+            "comment": "Since the government funding was temporary, another shutdown loomed. On February 14, 2019, the Senate and the House approved a funding bill that included $1.375 billion for 55 miles of border fences, in lieu of Trump's intended wall. Trump signed the bill on February 15, 2019, just hours before another shutdown would begin."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T11:06:40Z",
+            "comment": "temporary funding bill"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T11:05:41Z",
+            "comment": "On January 25, 2019, the Senate and the House unanimously approved a funding bill for the government, that provided no funding for the Trump wall, but would provide delayed paychecks to the government workers. Trump signed the bill that day, ending the shutdown at 35 days. It was the [[List of United States federal funding gaps|longest U.S. government shutdown in history]]."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T10:55:49Z",
+            "comment": "most of the affected workers missed two paychecks. The shutdown resulted in a permanent loss of $3 billion to the U.S. economy, estimated the Congressional Budget Office.[6]"
+          },
+          {
+            "user": "Naypta",
+            "timestamp": "2020-05-31T10:48:16Z",
+            "comment": "Minor grammar fix as requested in EPER on the talk page - not the same fix that was requested but serves the same purpose without breaking the list"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T10:38:18Z",
+            "comment": "An estimated 380,000 government employees were [[furlough]]ed, while an estimated 420,000 government employees worked without getting paid"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T10:32:25Z",
+            "comment": "A plurality of Americans blamed Trump for the shutdown, polls showed; the percentage increased as the shutdown continued, to around 50%. Trump's approval ratings also dropped"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-31T09:51:49Z",
+            "comment": "WP:OPED (giving undue weight to second part, implying doubt about preceding one); undue in the lead (Trump also denies having solicited Ukraine's help, not mentioned in the the lead); non sequitur (didn't deny making the comments and actions characterized as vs. denied being racist); violating consensus #30 (if not the letter (IMO he did), then the spirit — a qualifier to the sentence wasn't discussed in any of the three discussions)"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T04:02:34Z",
+            "comment": "[[MOS:CURLY]], [[MOS:PUNCT]]"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T03:57:04Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T03:47:53Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:34:16Z",
+            "comment": "Even into 2020, Trump has repeatedly provided false assertions that Mexico is paying for the Trump wall, although American taxpayers are footing the bill from funds being diverted from the U.S. Department of Defense"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:29:26Z",
+            "comment": "these replacement barriers were not walls, but fences made of [[bollards]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:28:25Z",
+            "comment": "shift"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-31T03:27:53Z",
+            "comment": "cite cleanup"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:26:28Z",
+            "comment": "These 78 miles of barriers were not walls, but fences made of [[bollards]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:19:28Z",
+            "comment": "In December 2018 and January 2019, Trump tweeted out a design of a steel fence, and a picture of a fence, while declaring \"the wall is coming\"."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T03:15:56Z",
+            "comment": "In October 2018, the administration revealed two miles of replacement fences made of steel posts, which it called the first section of Trump's 'wall', although earlier that year Border Patrol had said that the project was unrelated to the Trump wall and had been long planned (dating to 2009)."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:47:57Z",
+            "comment": "switch order, wording on separations"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:42:04Z",
+            "comment": "In 2017, the Mexico-U.S. border had 654 miles of primary fencing, 37 miles of secondary fencing and 14 miles of tertiary fencing."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:34:10Z",
+            "comment": "The Trump administration instead set a target of 450 miles of new or renovated barriers by December 2020, with an ultimate goal of 509 miles of new or renovated barriers by August 2021."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:31:41Z",
+            "comment": "The Trump administration instead set a target of 509 miles of new or renovated barriers by August 2021, including 450 miles by December 2020"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:28:02Z",
+            "comment": "d'oh... apparently the southwest border is the mexico border"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T02:22:20Z",
+            "comment": "By May 2020, the Trump administration had renovated 172 miles of old border barriers, and constructed 15 miles of new border barriers"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:51:22Z",
+            "comment": "From 2015 to 2017, Trump said that he wanted 1,000 miles of wall"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:41:08Z",
+            "comment": "combine"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:40:13Z",
+            "comment": "In February 2019, Trump said that his administration had been \"restricted to renovating\" existing barriers, \"and we need new wall\"."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:33:23Z",
+            "comment": "In January 2016, Trump talked about having \"concrete going very high\". As president, Trump in January 2018 again floated the plan of having \"solid concrete from ground to 32 feet high"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:14:20Z",
+            "comment": "While the Obama administration already employed a high level of detentions and deportations for migrants, the Trump administration took it to a significantly higher level"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:10:47Z",
+            "comment": "view of immigrants, taken from [[Trump_administration_migrant_detentions]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-31T01:04:29Z",
+            "comment": "Meanwhile, Commissioner of U.S. Customs and Border Protection [[Kevin McAleenan]] said in March 2019 that there was a \"border security and a humanitarian crisis\" at the Southwest border sector, with the system for handling migrants already at a \"breaking point\" due to an increase in migrants."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-30T12:53:23Z",
+            "comment": "/* Coronavirus pandemic */ Doesn't quite fit into either \"Government size and regulation\" or \"Health care\" sections. It was an Obama administration initiative, after all - a new inititiate is scheduled to be awarded (and lauded as an unprecedented achievement of the Trump administration) in August."
+          },
+          {
+            "user": "Objective3000",
+            "timestamp": "2020-05-30T12:14:54Z",
+            "comment": "Undid revision 959749320 by [[Special:Contributions/Urgal|Urgal]] ([[User talk:Urgal|talk]]) Not there for other presidents."
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T12:02:27Z",
+            "comment": "it was there for like 5 years until some random person deleted it a couple of minutes ago, https://en.wikipedia.org/w/index.php?title=Donald_Trump&diff=959741522&oldid=959740917&diffmode=source"
+          },
+          {
+            "user": "MrX",
+            "timestamp": "2020-05-30T12:00:46Z",
+            "comment": "Reverted to revision 959747454 by [[Special:Contributions/Starship.paint|Starship.paint]] ([[User talk:Starship.paint|talk]]): No, it got deleted because it's not appropriate. Please don't violate [[WP:1RR]] again or you may be sanctioned. ([[WP:TW|TW]])"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T11:48:26Z",
+            "comment": "got randomly deleted"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T11:46:15Z",
+            "comment": "main article"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T11:45:22Z",
+            "comment": "link"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T11:44:32Z",
+            "comment": "starting trump wall"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T11:17:37Z",
+            "comment": "In June 2019 and July 2019, lawyers, a certified doctor, and lawmakers visited the migrant detention facilities, reporting a lack of supervision, traumatized children, and many sick migrants respectively ... Meanwhile, Vice President Pence visited an overcrowded facility, where he reacted by saying \"this is tough stuff\", stating that the system was \"overwhelmed"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T11:00:16Z",
+            "comment": "Meanwhile, Commissioner of U.S. Customs and Border Protection [[Kevin McAleenan]] said in March 2019 that there was a \"border security and a humanitarian crisis\" at the border"
+          },
+          {
+            "user": "1.Ayana",
+            "timestamp": "2020-05-30T10:55:30Z",
+            "comment": "I would not call Trump  Honorable at all and feel like its promoting him rather then being netural"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T10:50:04Z",
+            "comment": "shift"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T10:13:26Z",
+            "comment": "Migrant detentions expansion"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T09:57:47Z",
+            "comment": "The Trump administration has taken a harsher approach than previous administrations regarding migrant detentions, by allowing no exemptions for detention unlike the George W. Bush and Obama administrations"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T09:36:48Z",
+            "comment": "On June 26, 2018, a federal judge concluded that the Trump administration had \"no system in place to keep track of\" the separated children, nor any effective measures for family communication and reunification"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T09:27:11Z",
+            "comment": "his administration's policy"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T09:25:39Z",
+            "comment": "Administration officials described the policy as a deterrent against illegal immigration. Over 2,300 children were separated as a result of the \"zero tolerance policy\", the Trump administration revealed in June 2018."
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T09:25:18Z",
+            "comment": "the consensus states \"\"The lead includes: \"Many of his comments and actions have been characterized as racially charged or racist.\"\", THIS INFO IS STILL THERE."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T09:18:51Z",
+            "comment": "The children would be brought to immigration detention, immigrant shelters, or [[tent camps]], with the aim of releasing them to relatives or sponsors"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-30T09:15:34Z",
+            "comment": "Restore listed consensus"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T08:57:23Z",
+            "comment": "sources not necessary for lede"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T08:35:44Z",
+            "comment": ""
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T08:34:28Z",
+            "comment": ""
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T08:33:03Z",
+            "comment": "this has nothing to do with any consensus, im just adding additional info. the current version sounds like it was written by a person with trump derangement syndrome"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T08:24:11Z",
+            "comment": "The policy of family separations sparked public outrage"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-30T08:17:26Z",
+            "comment": "Per consensus item #30"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T08:14:33Z",
+            "comment": "4,370 children were separated from July 2017 to June 2018, reported the Trump administration in October 2019. Even after the June 2018 federal judge order, the Trump administration continued to practice family separations, with over 1,000 migrant children separated"
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T07:58:03Z",
+            "comment": ""
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T07:55:03Z",
+            "comment": ""
+          },
+          {
+            "user": "Urgal",
+            "timestamp": "2020-05-30T07:54:29Z",
+            "comment": "giving the full story is always the better way to go"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T07:44:13Z",
+            "comment": "date"
+          },
+          {
+            "user": "Rreagan007",
+            "timestamp": "2020-05-30T06:56:16Z",
+            "comment": "/* Impeachment */"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T06:22:06Z",
+            "comment": "Although Trump originally argued that the issue could not be solved via executive order, he proceeded to sign an executive order on June 20, 2018, mandating that migrant families should be detained together, unless the administration judged that doing so would harm the child"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T06:08:41Z",
+            "comment": "On June 26, 2018, a federal judge ordered the administration to reunite the separated families, and also ordered a stop to family separations, except in the cases where the parent(s) are judged unfit to take care of the child, or if there is parental approval"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T05:12:03Z",
+            "comment": "blaming Democrats"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T05:07:34Z",
+            "comment": "The Trump administration has continued to practice family separations, with over 1,000 migrant children separated after the federal judge's order"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T05:01:55Z",
+            "comment": "Trump falsely asserted that his administration was merely following the law, when in fact this was his own policy"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:59:53Z",
+            "comment": "split"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:58:31Z",
+            "comment": "combine"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:57:23Z",
+            "comment": "order"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:55:52Z",
+            "comment": "before an official policy was announced in 2018"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:50:52Z",
+            "comment": "trim Family separation at border"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:49:45Z",
+            "comment": "numbers being reported on family separations"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:30:47Z",
+            "comment": "clarify entering U.S. / clarify order, not necessarily done"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T04:26:23Z",
+            "comment": "Family separation at border expansion"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T03:58:44Z",
+            "comment": "header"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T03:08:55Z",
+            "comment": "Trump has refused to wear a face mask at press conferences and most public events, contrary to his own administration's April 2020 guidance that Americans should wear masks in public"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T02:12:48Z",
+            "comment": "Trump has highlighted Peale's writing on ''[[The Power of Positive Thinking]]'', and acknowledged that he learned from Peale to \"never think of the negative\", and that \"the mind can overcome any obstacle\"."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T02:05:59Z",
+            "comment": "order"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T02:05:12Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-30T02:04:17Z",
+            "comment": "links, year in religion"
+          },
+          {
+            "user": "Markbassett",
+            "timestamp": "2020-05-29T21:02:21Z",
+            "comment": "/* Religion */ rev semicolon, replace cite with better one, mention Sunday school."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-29T14:14:56Z",
+            "comment": "/* Wealth */ use redirect"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-29T13:05:36Z",
+            "comment": "/* Wealth */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-29T13:00:24Z",
+            "comment": "/* Wealth */ Source on state dinner (attendees, etc.)"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-29T08:08:06Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-29T08:07:19Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-29T07:52:19Z",
+            "comment": "quote"
+          },
+          {
+            "user": "Flix11",
+            "timestamp": "2020-05-29T06:50:46Z",
+            "comment": "formal style for any sitting POTUS"
+          },
+          {
+            "user": "Flix11",
+            "timestamp": "2020-05-29T06:48:55Z",
+            "comment": "uniform with any current presidents/PMs"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-28T20:05:27Z",
+            "comment": "Undid revision 959441180 by [[Special:Contributions/Cesdeva|Cesdeva]] ([[User talk:Cesdeva|talk]])"
+          },
+          {
+            "user": "Cesdeva",
+            "timestamp": "2020-05-28T20:04:43Z",
+            "comment": "typo"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-28T13:26:06Z",
+            "comment": "Restore longstanding text that was agreed after long discussion on talk.  Please do not make tweaks and trims of wording to change the meaning of key text without prior consensus on talk. For some reason, this is not listed in the talk page Consensus List, but somebody might consider adding it to prevent recurrence of this sort of change."
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T08:44:45Z",
+            "comment": "/* Religion */ Trim"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T08:42:27Z",
+            "comment": "/* Parents */ Trim"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T08:37:40Z",
+            "comment": "/* Family */ Merge sentences about Fred Trump, clarifying the story; add sub-headings"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T07:47:32Z",
+            "comment": "/* Military deferment */ Sub-heading looks more appropriate"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T07:21:37Z",
+            "comment": "/* top */ Trim inquiry details; link to Ukraine scandal"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T07:08:27Z",
+            "comment": "/* top */ Simplify convoluted text; place [[Mueller Report]] link where it belongs"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T07:03:28Z",
+            "comment": "/* top */ Pleonasm"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T06:41:17Z",
+            "comment": "/* top */ More compact; possibly more neutral"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T06:39:03Z",
+            "comment": "Undid revision 957600716 by [[Special:Contributions/Thanoscar21|Thanoscar21]] ([[User talk:Thanoscar21|talk]]) Previous wording was clearer"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T06:33:29Z",
+            "comment": "/* top */ Less weight for Soleimani story in recent lead-section discussions"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T06:31:36Z",
+            "comment": "/* top */ Trim Kurd story: already covered in linked article about troop withdrawal"
+          },
+          {
+            "user": "JFG",
+            "timestamp": "2020-05-28T06:29:11Z",
+            "comment": "/* top */ Add Trump's ownerhip of the [[Miss Universe]] pageant series"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-27T21:22:19Z",
+            "comment": "Undid revision 959240237 by [[Special:Contributions/Nightscream|Nightscream]] ([[User talk:Nightscream|talk]]) - rv per [[WP:CAPFRAG]] - complete sentence"
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-05-27T20:03:29Z",
+            "comment": "/* Coronavirus pandemic */ sp"
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-27T19:51:02Z",
+            "comment": "/* False statements */ punctuation; copyedit."
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-27T19:50:01Z",
+            "comment": "/* Conflicts of interest */ [[WP:CAPFRAG]]"
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-27T19:49:23Z",
+            "comment": "/* Legal affairs and bankruptcies */ Fixing cite error by emoving text from non-parameter in between two pipe dividers"
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-27T19:44:51Z",
+            "comment": "copyedit."
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-27T19:43:29Z",
+            "comment": "Rm redundancy, subsection."
+          },
+          {
+            "user": "Dave souza",
+            "timestamp": "2020-05-27T18:53:39Z",
+            "comment": "/* Coronavirus pandemic */ per source, not a ban but a bar on non-Americans"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-27T18:21:16Z",
+            "comment": "/* Religion */ wikilink"
+          },
+          {
+            "user": "Mr. Guye",
+            "timestamp": "2020-05-27T17:45:31Z",
+            "comment": "/* Religion */ Removing [[MOS:LEBEL|contentious label]] in accordance with the Manual of Style"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-26T21:01:05Z",
+            "comment": "Undid revision 959029516 by [[Special:Contributions/MyPreferredUsernameWasTaken|MyPreferredUsernameWasTaken]] ([[User talk:MyPreferredUsernameWasTaken|talk]]) Restoring improved version based on talk page collaboration."
+          },
+          {
+            "user": "MyPreferredUsernameWasTaken",
+            "timestamp": "2020-05-26T20:36:07Z",
+            "comment": "/* Religion */ reverting back to previous version, changed without consensus"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-26T20:00:23Z",
+            "comment": "mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-26T19:58:11Z",
+            "comment": "/* Legal affairs and bankruptcies */ cite cleanup, mce"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-26T18:06:22Z",
+            "comment": "/* top */ 1. Remove first link per [[MOS:OVERLINK]], it is not particularly useful in this context. 2. Modify second link per [[MOS:EGG]]."
+          },
+          {
+            "user": "JLo-Watson",
+            "timestamp": "2020-05-26T15:50:33Z",
+            "comment": "added links"
+          },
+          {
+            "user": "JLo-Watson",
+            "timestamp": "2020-05-26T15:41:00Z",
+            "comment": "added link"
+          },
+          {
+            "user": "BD2412",
+            "timestamp": "2020-05-26T15:29:02Z",
+            "comment": "/* Legal affairs and bankruptcies */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T14:17:59Z",
+            "comment": "It was Cohn who introduced political consultant Roger Stone to Trump, who enlisted Stone's services to deal with the federal government."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-26T14:14:25Z",
+            "comment": "/* Religion */ lower the required reading level a tad"
+          },
+          {
+            "user": "SPECIFICO",
+            "timestamp": "2020-05-26T12:31:04Z",
+            "comment": "/* Legal affairs and bankruptcies */  wikilink fixer. Rather colloquial for the context, but if we use it then it can be linked."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T09:51:50Z",
+            "comment": "$100 million"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T09:51:06Z",
+            "comment": "In 1973, Cohn helped Trump counter-sue the United States government over its charges that Trump's properties had racial discriminatory practices; in 1975 an agreement was struck for Trump's properties to change their practices"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T09:42:20Z",
+            "comment": "ref"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T09:41:03Z",
+            "comment": "Roy Cohn, per talk"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T09:27:07Z",
+            "comment": "Legal affairs and bankruptcies"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T07:21:23Z",
+            "comment": "In 2015, after Trump said: \"I go to Marble Collegiate Church\", the church reacted by stating that he \"is not an active member\" of the church"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T07:01:28Z",
+            "comment": "In the 1970s, his parents joined the [[Marble Collegiate Church]] in Manhattan, which was not a Presbyterian church, but belonged to the [[Reformed Church in America]] [[Christian denomination|denomination]]"
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T06:56:34Z",
+            "comment": "Trump identifies as [[Presbyterianism|Presbyterian]]; as a teenager he was confirmed at the [[First Presbyterian Church in Jamaica|First Presbyterian Church]] in Jamaica, Queens."
+          },
+          {
+            "user": "Starship.paint",
+            "timestamp": "2020-05-26T06:52:44Z",
+            "comment": "Trump has described Peale as a mentor"
+          },
+          {
+            "user": "MyPreferredUsernameWasTaken",
+            "timestamp": "2020-05-25T15:30:48Z",
+            "comment": "/* Wealth */ no reason this photo needs enlargement to compensate for the content within it"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-25T15:27:11Z",
+            "comment": "Undid revision 958656741 by [[Special:Contributions/Nightscream|Nightscream]] ([[User talk:Nightscream|talk]]) - Disagree. Grammatically, the word \"Early\" has to modify either the first element only (life) or all three (life, career, military deferment). NOT the first two only. \"Early military deferment\" obviously makes no sense. Grammatical correctness trumps arguably unnecessary accuracy."
+          },
+          {
+            "user": "Nightscream",
+            "timestamp": "2020-05-25T01:18:22Z",
+            "comment": "Redundant. \"Early life\" encompasses all those things that occur during that period, INCLUDING one's education. If anything, stuff in this section that is not typically found in the EL sections of bio articles would be his first work, and his military deferment."
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T22:52:48Z",
+            "comment": "/* 2012 presidential speculation */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T22:37:51Z",
+            "comment": "/* Election to the presidency */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T22:00:57Z",
+            "comment": "/* Foundation */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T21:49:42Z",
+            "comment": "/* Foreign policy */ Replacing picture with spouses with picture of world leaders at work"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T19:43:23Z",
+            "comment": "/* 2012 presidential speculation */ [[MOS:SURNAME]]"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T19:14:18Z",
+            "comment": "/* Political activities up to 2015 */ Oops, wrong line"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T19:12:53Z",
+            "comment": "/* Political activities up to 2015 */ Adding picture of Trump at CPAC 2011 to \"2012 presidential speculation\" section where his speaking appearance is mentioned."
+          },
+          {
+            "user": "Kolya Butternut",
+            "timestamp": "2020-05-24T18:23:54Z",
+            "comment": "/* External links */  Restore category \"American Nationalists\" which I assume is a longstanding category."
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T16:56:52Z",
+            "comment": "/* 2000 presidential campaign */ increase date precision, relevant per \"Trump dropped out of the race in February 2000.\""
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T16:52:47Z",
+            "comment": "/* Political activities up to 2015 */ improve placement"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T16:38:42Z",
+            "comment": "/* Political activities up to 2015 */ +pre-presidency image per talk"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T14:40:49Z",
+            "comment": "Undid revision 958567583 by [[Special:Contributions/Space4Time3Continuum2x|Space4Time3Continuum2x]] ([[User talk:Space4Time3Continuum2x|talk]])"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T14:40:03Z",
+            "comment": "/* Wealth */"
+          },
+          {
+            "user": "Space4Time3Continuum2x",
+            "timestamp": "2020-05-24T14:26:00Z",
+            "comment": "/* Wealth */ Whose wife?"
+          },
+          {
+            "user": "UpdateNerd",
+            "timestamp": "2020-05-24T13:51:22Z",
+            "comment": "/*lead*/ remove redundant link"
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T13:39:26Z",
+            "comment": "/* External links */ birthplace: \"standard biographical details\""
+          },
+          {
+            "user": "Mandruss",
+            "timestamp": "2020-05-24T13:29:17Z",
+            "comment": "/* External links */ reduce overcategorization per [[WP:COPDEF]] - not \"defining characteristics\" or reasons for notability"
+          },
+          {
+            "user": "Drown Soda",
+            "timestamp": "2020-05-24T10:45:12Z",
+            "comment": "Typo"
+          },
+          {
+            "user": "Praxidicae",
+            "timestamp": "2020-05-23T16:27:24Z",
+            "comment": "Reverted edits by [[Special:Contribs/Mareisland03|Mareisland03]] ([[User talk:Mareisland03|talk]]) to last version by Loginnigol"
+          },
+          {
+            "user": "Mareisland03",
+            "timestamp": "2020-05-23T16:26:48Z",
+            "comment": "there is no proof o0f racism other than media hype"
+          },
+          {
+            "user": "Loginnigol",
+            "timestamp": "2020-05-23T02:28:31Z",
+            "comment": "source added"
+          },
+          {
+            "user": "Loginnigol",
+            "timestamp": "2020-05-23T02:19:26Z",
+            "comment": "until 1990 not 1990s"
+          },
+          {
+            "user": "Bneu2013",
+            "timestamp": "2020-05-22T23:49:17Z",
+            "comment": "removed [[Category:Climate change denial]]; added [[Category:American climate change denialists]] using [[WP:HC|HotCat]]"
+          }
+        ]
+      }
+    }
+  }
+}
